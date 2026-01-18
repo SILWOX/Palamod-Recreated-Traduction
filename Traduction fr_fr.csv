@@ -1,0 +1,2023 @@
+SEP=,
+Translation key (DON'T EDIT),TRANSLATION IN fr_fr - EDIT THIS COLUMN,English text (DON'T EDIT - reference only)
+painting.palamod.the_nether.title,Le Nether,The Nether
+item.palamod.fake_water_bucket,Fausse Eau,Fake Water
+item.palamod.music_fuze,Disque de musique,Music Disc
+entity.minecraft.villager.palamod.purifier,Purificateur,Purifier
+item.palamod.fuze_reine_des_neige_disk,Disque de musique,Music Disc
+block.palamod.jacaranda_button,Bouton de Jacaranda,Jacaranda Button
+painting.palamod.large_paladium.author,Paladium,Paladium
+item.palamod.amethyst_chestplate,Plastron d'Améthyste,Amethyst Chestplate
+painting.palamod.minuit.title,Minuit,Minuit
+item.palamod.christmas_musicoriginal.desc,Musique de Noël - Jingle Bell,Christmas Music - Jingle Bell
+item.palamod.halloween_pickaxe,Pioche d'Halloween,Halloween Pickaxe
+item.palamod.paladium_trim_1_leggings,Jambières de Paladium,Paladium Leggings
+block.palamod.titane_ore,Minerai de Titane,Titane Ore
+painting.palamod.the_sunset.title,Le coucher du soleil,The Sunset
+block.palamod.slime_obsidian,Obsidienne de Slime,Slime Obsidian
+item.palamod.strength_stick,Baton de Force,Strength Stick
+block.palamod.judeercercis_button,Bouton de Judeecercis,Judeecercis Button
+item.palamod.guardian_hammer,Marteau Gardien,Guardian Hammer
+item.palamod.travel_leggings,Jambières de Travel,Travel Leggings
+item.palamod.paladium_trim_6_leggings,Jambières de Paladium,Paladium Leggings
+block.palamod.judeecercis_sappling,Judeecercis Sappling,Judeecercis Sappling
+item.palamod.skeleton_leggings,Jambières de Skeleton,Skeleton Leggings
+gui.palamod.grinder_block_gui.label_grinder,Broyeur,Grinder
+block.palamod.ostrya_sappling,Ostrya Sappling,Ostrya Sappling
+block.palamod.titane_chest,Coffre de Titane,Titane Chest
+painting.palamod.the_beautifull_sky.author,Paladium,Paladium
+item.palamod.paladium_trim_10_leggings.description_0,Wild Armor Trim,Wild Armor Trim
+block.palamod.ostrya_leaves,Ostrya Feuilles,Ostrya Leaves
+item.palamod.amethyst_seedplanter,Améthyste Seedplanter,Amethyst Seedplanter
+item.palamod.paladium_trim_5_leggings.description_0,Silence Armor Trim,Silence Armor Trim
+painting.palamod.the_sun_falls.author,Paladium,Paladium
+item.palamod.scuba_helmet,Casque d'Scuba,Scuba Helmet
+item.palamod.legendary_stone_random.description_0,Click and you will get a random legendary stone,Click and you will get a random legendary stone
+block.palamod.obsidian_stair,Obsidian Escaliers,Obsidian Stairs
+item.palamod.capture_stone_full_snow_golem,Capture Stone Full,Capture Stone Full
+item.palamod.halloween_hoe,Halloween Houe,Halloween Hoe
+block.palamod.water_fence_gate,Birch Water Fence Gate,Birch Water Fence Gate
+item.palamod.order_boots,Order Boot,Order Boot
+item.palamod.capture_stone_full_mooshroom.description_0,Entity = Iron Golem,Entity = Iron Golem
+item.palamod.lore_categorie,Lore Categorie,Lore Categorie
+block.palamod.palastrange_ore,Minerai de Palastrange,Palastrange Ore
+item.palamod.capture_stone_empty,Capture Stone Empty,Capture Stone Empty
+item.palamod.socket,Socket,Socket
+item.palamod.re_fuzay_disk,Disque de musique,Music Disc
+item.palamod.symbiotic_armor,Symbiotic Armor,Symbiotic Armor
+block.palamod.water_fence,Birch Water Fence,Birch Water Fence
+item.palamod.green_paladium_sword,Green Paladium Sword,Green Paladium Sword
+item.palamod.compressed_paladium,Compressed Paladium,Compressed Paladium
+item.palamod.wither_skull_fragment,Wither Skull Fragment,Wither Skull Fragment
+item.palamod.paladium_trim_9_boots.description_0,Wayfinder Armor Trim,Wayfinder Armor Trim
+item.palamod.broadsword_pattern,Broadsword Pattern,Broadsword Pattern
+block.palamod.slimepad,Slimepad,Slimepad
+block.palamod.amethyst_chest,Coffre de Améthyste,Amethyst Chest
+item.palamod.green_paladium_ingot,Green Paladium Ingot,Green Paladium Ingot
+block.palamod.mega_safe_chest,Coffre de Mega Safe,Mega Safe Chest
+painting.palamod.the_sun_falls.title,The Sun Falls,The Sun Falls
+item.palamod.spacefood,Spacefood,Spacefood
+painting.palamod.the_nether.author,Paladium,Paladium
+item.palamod.skeleton_boots,Skeleton Boot,Skeleton Boot
+gui.palamod.paladium_chest_gui.label_paladium_chest,Coffre de Paladium,Paladium Chest
+item.palamod.purifite_imperfect,Purifite Imperfect,Purifite Imperfect
+entity.minecraft.villager.palamod.trixiar,Trixiar,Trixiar
+block.palamod.deepslate_trixium_ore,Minerai de Deepslate Trixium,Deepslate Trixium Ore
+gui.palamod.endium_chest_gui.label_paladium_chest,Coffre de Endium,Endium Chest
+item.palamod.capture_stone_full_chicken,Capture Stone Full,Capture Stone Full
+item.palamod.christmas_musicoriginal,Disque de musique,Music Disc
+item.palamod.pickaxe_of_the_god,Pioche Of The God,Pickaxe Of The God
+item.palamod.present,Present,Present
+item.palamod.infinity_gauntlet,Infinity Gauntlet,Infinity Gauntlet
+item.palamod.corruptedsword,CORRUPTED.SWORD,CORRUPTED.SWORD
+block.palamod.boom_obsidian,Boom Obsidian,Boom Obsidian
+block.palamod.palamachine,Palamachine,Palamachine
+item.palamod.tournament_red_chestplate,Plastron d'Tournament Red,Tournament Red Chestplate
+item.palamod.guardian_stone_ame.description_0,A contained soul,A contained soul
+gui.palamod.paladium_book_gui.label_original_please_note,original please note,original please note
+item.palamod.endium_pollen,Endium Pollen,Endium Pollen
+item.palamod.parrot_feather,Parrot Feather,Parrot Feather
+item.palamod.amethyst_helmet,Casque d'Améthyste,Amethyst Helmet
+painting.palamod.the_purpul_butterfly.author,Paladium,Paladium
+block.palamod.black_lucky_block,Black Lucky Block,Black Lucky Block
+item.palamod.palapple,Palapple,Palapple
+painting.palamod.the_golem.author,Paladium,Paladium
+item.palamod.paladium_trim_5_chestplate,Plastron d'Paladium,Paladium Chestplate
+item.palamod.paladium_trim_8_leggings.description_0,Ward Armor Trim,Ward Armor Trim
+enchantment.palamod.unclaim_helmet,Casque d'Unclaim,Unclaim Helmet
+item.palamod.paladium_trim_8_boots,Paladium Boot,Paladium Boot
+item.palamod.gold_particle,Gold Particle,Gold Particle
+item.palamod.speed_apple,Speed Apple,Speed Apple
+item.palamod.arty_head_helmet,Arty Head,Arty Head
+item.palamod.capture_stone_full_pig.description_0,Entity = Pig,Entity = Pig
+item.palamod.legendary_stone_teleportation,Legendary Stone Tp,Legendary Stone Tp
+advancements.welcometo_paladium.title,Palapass,Palapass
+item.palamod.pickaxe_pattern,Pioche Pattern,Pickaxe Pattern
+item.palamod.endium_mixed_boots,Mixed Endium Boot,Mixed Endium Boot
+item.palamod.clash_kumiz,Disque de musique,Music Disc
+item.palamod.fake_endium_leggings,Jambières de Fake Endium,Fake Endium Leggings
+item.palamod.legendary_stone_fortune.description_0,Click and get more luck and mine faster,Click and get more luck and mine faster
+item.palamod.toolscategorie,Tools categorie,Tools categorie
+painting.palamod.the_forest.author,Paladium,Paladium
+item.palamod.chervil_seed,Chervil Seed,Chervil Seed
+item.palamod.paladium_chestplate,Plastron d'Paladium,Paladium Chestplate
+item.palamod.ingot_pattern,Ingot Pattern,Ingot Pattern
+item.palamod.corrupted_ticket,Corrupted Ticket,Corrupted Ticket
+item.palamod.fallen_sword,Fallen Sword,Fallen Sword
+item.palamod.corrupted_steel_plate,Corrupted Steel Plate,Corrupted Steel Plate
+item.palamod.paladium_trim_5_chestplate.description_0,Silence Armor Trim,Silence Armor Trim
+entity.palamod.corrupted_skeleton,Corrupted Skeleton,Corrupted Skeleton
+gui.palamod.paladium_book_gui.label_some_things_change,some things change in,some things change in
+item.palamod.corrupted_slime_spawn_egg,Corrupted Slime Spawn Egg,Corrupted Slime Spawn Egg
+gui.palamod.paladium_book_gui.label_we_wish_you_a_very_good_game,We wish you a very,We wish you a very
+item.palamod.amethyst_axe,Améthyste Axe,Amethyst Axe
+block.palamod.grinder_block,Broyeur Block,Grinder Block
+item.palamod.paladium_trim_9_chestplate,Plastron d'Paladium,Paladium Chestplate
+item.palamod.kiwano,Kiwano,Kiwano
+item.palamod.capture_stone_full_wolf,Capture Stone Full,Capture Stone Full
+item.palamod.christmas_chestplate,Plastron d'Christmas,Christmas Chestplate
+item.palamod.halloween_sword,Halloween Sword,Halloween Sword
+item.palamod.invisible_chestplate,Plastron d'Invisible,Invisible Chestplate
+item.palamod.corrupted_powder,Corrupted Powder,Corrupted Powder
+gui.palamod.present_2.label_present,Present,Present
+block.palamod.ostrya_stairs,Ostrya Escaliers,Ostrya Stairs
+block.palamod.judeercercis_slab,Judeecercis Slab,Judeecercis Slab
+item_group.palamod.christmasui,§bChristmas,§bChristmas
+item.palamod.paladium_trim_2_chestplate,Plastron d'Paladium,Paladium Chestplate
+block.palamod.paladium_block,Paladium Block,Paladium Block
+item.palamod.paladium_trim_4_helmet.description_0,Raiser Armor Trim,Raiser Armor Trim
+block.palamod.judeercercis_fence_gate,Judeecercis Fence Gate,Judeecercis Fence Gate
+item.palamod.amethyst_hammer,Améthyste Marteau,Amethyst Hammer
+item.palamod.capture_stone_full_arty.description_0,Entity = Arty,Entity = Arty
+item.palamod.paladium_hoe,Paladium Houe,Paladium Hoe
+block.palamod.totem_of_flowery,Totem Of Flowery,Totem Of Flowery
+item.palamod.endium_dynamite,Endium Dynamite,Endium Dynamite
+item.palamod.endium_helmet,Casque d'Endium,Endium Helmet
+block.palamod.ostrya_button,Bouton de Ostrya,Ostrya Button
+block.palamod.custom_lightgray_wool,Custom Lightgray Wool,Custom Lightgray Wool
+item.palamod.red_palabot_spawn_egg,RED Palabot Spawn Egg,RED Palabot Spawn Egg
+item.palamod.titane_helmet,Titane helmet,Titane helmet
+item.palamod.hood_helmet,Casque d'Hood,Hood Helmet
+item.palamod.endium_hoe,Endium Houe,Endium Hoe
+item.palamod.paladium_trim_4_helmet,Casque d'Paladium,Paladium Helmet
+item.palamod.star_helmet_helmet,Casque d'Star,Star Helmet
+item.palamod.fallen_shovel,Fallen Shovel,Fallen Shovel
+item.palamod.spraygun,Spray Gun,Spray Gun
+gui.palamod.green_paladium_chest_gui.label_paladium_chest,Coffre de Paladium,Paladium Chest
+item.palamod.corruptedlegendarystone,CORRUPTED.LEGENDARY.STONE,CORRUPTED.LEGENDARY.STONE
+item.palamod.amethyst_leggings,Jambières de Améthyste,Amethyst Leggings
+item.palamod.knockback_orb,Knockback Orb,Knockback Orb
+item.palamod.slimy_helmet,Casque d'Slimy,Slimy Helmet
+painting.palamod.palamod_recreated.author,SILWOX,SILWOX
+item.palamod.paladium_trim_8_boots.description_0,Ward Armor Trim,Ward Armor Trim
+block.palamod.custom_pink_wool,Custom Pink Wool,Custom Pink Wool
+item.palamod.guardian_golem_spawn_egg,Guardian Golem Spawn Egg,Guardian Golem Spawn Egg
+item.palamod.paladium_sword,Paladium Sword,Paladium Sword
+item.palamod.fake_endium_boots,Fake Endium Boot,Fake Endium Boot
+item.palamod.mii_chalenge.desc,Paladium - Mii Challenge,Paladium - Mii Challenge
+gui.palamod.grinder_block_gui.label_bnbtnumberpaladium,<BNBT:number/...:paladium>,<BNBT:number/...:paladium>
+item.palamod.fallen_pickaxe,Fallen Pioche,Fallen Pickaxe
+item.palamod.infernal_knocker,Infernal Knocker,Infernal Knocker
+item.palamod.order_chestplate,Plastron d'Order,Order Chestplate
+item.palamod.paladium_trim_8_helmet.description_0,Ward Armor Trim,Ward Armor Trim
+item.palamod.amethyst_shovel,Améthyste Shovel,Amethyst Shovel
+item.palamod.paladium_core,Paladium Core,Paladium Core
+item.palamod.roulette_pala.desc,La rouette paladienne de Fuze en musique,La rouette paladienne de Fuze en musique
+block.palamod.erable_planks,Erable Planks,Erable Planks
+gui.palamod.order_vs_chaos_gui.button_order,Order,Order
+item.palamod.paladium_go_disk.desc,Paladium GO,Paladium GO
+gui.palamod.online_detector_gui.label_online_detector,Online Detector,Online Detector
+gui.palamod.back_pack_endium.label_backpack,Endium BackPack,Endium BackPack
+item.palamod.chocolat_milk,Chocolat Milk,Chocolat Milk
+item.palamod.blue_palabot_spawn_egg,BLUE Palabot Spawn Egg,BLUE Palabot Spawn Egg
+item_group.palamod.beta_blocks_items,§cDev/Beta : Blocks - Items,§cDev/Beta : Blocks - Items
+block.palamod.chervil_seed_stage_1,Chervil Seed,Chervil Seed
+item.palamod.marinated_steak,Marinated Steak,Marinated Steak
+gui.palamod.grinder_block_gui.label_craft,CRAFT,CRAFT
+block.palamod.chervil_seed_stage_3,Chervil Seed,Chervil Seed
+gui.palamod.crusher_gui.label_crusher,Crusher,Crusher
+block.palamod.chervil_seed_stage_2,Chervil Seed,Chervil Seed
+block.palamod.judeercercis_leaves,Judeecercis Feuilles,Judeecercis Leaves
+block.palamod.paladium_lucky_block,Paladium Lucky Block,Paladium Lucky Block
+item.palamod.corrupted_parasite,Corrupted Parasite,Corrupted Parasite
+block.palamod.obsidian_door,Obsidian Door,Obsidian Door
+item.palamod.chaos_helmet,Casque d'Chaos,Chaos Helmet
+block.palamod.jacaranda_leaves,Jacaranda Feuilles,Jacaranda Leaves
+block.palamod.chervil_seed_stage_4,Chervil Seed,Chervil Seed
+gui.palamod.grinder_block_gui.label_melt_tools,MELT - TOOLS,MELT - TOOLS
+block.palamod.deepslate_endium_ore,Minerai de Deepslate Endium,Deepslate Endium Ore
+item.palamod.halloween_music_disk.desc,Halloween Music,Halloween Music
+item.palamod.titane_stick,Titane Stick,Titane Stick
+block.palamod.amethyst_ore,Minerai de Améthyste,Amethyst Ore
+entity.palamod.corrupted_zombie,Corrupted Zombie,Corrupted Zombie
+gui.palamod.present_1.label_present,Present,Present
+gui.palamod.grinder_block_gui.button_craft,Ok,Ok
+painting.palamod.the_sunset.author,Paladium,Paladium
+item.palamod.stick_of_god,Stick Of God,Stick Of God
+block.palamod.custom_black_wool,Custom Black Wool,Custom Black Wool
+item.palamod.paladium_hat_helmet,Paladium Hat,Paladium Hat
+item.palamod.skeleton_helmet,Casque d'Skeleton,Skeleton Helmet
+block.palamod.endium_lucky_block,Endium Lucky Block,Endium Lucky Block
+item.palamod.paladium_pickaxe,Paladium Pioche,Paladium Pickaxe
+item.palamod.christmas_stone,Christmas Stone,Christmas Stone
+block.palamod.crusher,Crusher,Crusher
+block.palamod.custom_red_wool,Custom Red Wool,Custom Red Wool
+item.palamod.endium_fragment,Endium Fragment,Endium Fragment
+item.palamod.capture_stone_full_chicken.description_0,Entity = Chicken,Entity = Chicken
+block.palamod.erable_sappling,Erable Sappling,Erable Sappling
+item.palamod.multicolort_gift.description_1,But what's inside?,But what's inside?
+painting.palamod.beauty_field.author,Paladium,Paladium
+item.palamod.multicolort_gift.description_0,Open a mystery gift.,Open a mystery gift.
+item.palamod.itemcategorie,Item categorie,Item categorie
+block.palamod.jacaranda_fence,Jacaranda Fence,Jacaranda Fence
+item.palamod.capture_stone_full_sheep.description_0,Entity = Sheep,Entity = Sheep
+painting.palamod.palamod_recreated.title,Palamod Recreated,Palamod Recreated
+gui.palamod.paladium_book_gui.label_silwox,- SILWOX,- SILWOX
+item.palamod.paladium_head_broadsword,Paladium Head Broadsword,Paladium Head Broadsword
+block.palamod.lucky_block_categorie,Lucky Block Categorie,Lucky Block Categorie
+subtitles.kumiz,Clash Kumiz Fuze III,Clash Kumiz Fuze III
+biome.palamod.judeercercis,Judeecercis,Judeecercis
+block.palamod.titane_anvil,Titane Anvil,Titane Anvil
+item.palamod.amethyst_stick,Améthyste Stick,Amethyst Stick
+block.palamod.invoker_ore,Minerai de Invoker,Invoker Ore
+block.palamod.jacaranda_wood,Jacaranda Wood,Jacaranda Wood
+item.palamod.paladium_trim_2_boots.description_0,Coast Armor Trim,Coast Armor Trim
+subtitles.halloween_sound,Halloween Music,Halloween Music
+item.palamod.hammer_pattern,Marteau Pattern,Hammer Pattern
+item.palamod.speed_orb,Speed Orb,Speed Orb
+item.palamod.lucky_sword,Luckium Sword,Luckium Sword
+block.palamod.jacaranda_fence_gate,Jacaranda Fence Gate,Jacaranda Fence Gate
+block.palamod.grinder_casing_block,Broyeur Casing Block,Grinder Casing Block
+item.palamod.lightning_potion,Lightning Potion,Lightning Potion
+block.palamod.jacaranda_sappling,Jacaranda Sappling,Jacaranda Sappling
+item.palamod.paladium_trim_2_boots,Paladium Boot,Paladium Boot
+block.palamod.fertilized_dirt,Fertilized Dirt,Fertilized Dirt
+block.palamod.infested_web,Infested Web,Infested Web
+item.palamod.purifite_perfect,Purifite Perfect,Purifite Perfect
+item.palamod.purifite_normal,Purifite Normal,Purifite Normal
+block.palamod.blue_slimepad,Blue Slimepad,Blue Slimepad
+block.palamod.amethyst_anvil,Améthyste Anvil,Amethyst Anvil
+block.palamod.erable_leaves,Erable Feuilles,Erable Leaves
+item.palamod.corrupted_skull,Corrupted Skull,Corrupted Skull
+block.palamod.frozen_obsidian,Frozen Obsidian,Frozen Obsidian
+item.palamod.guardian_stone_ame,Guardian Stone,Guardian Stone
+item.palamod.moon_boot_boots,Moon Boot,Moon Boot
+item.palamod.hang_glider,Hang Glider,Hang Glider
+block.palamod.jacaranda_stairs,Jacaranda Escaliers,Jacaranda Stairs
+block.palamod.eggplant_seed_stage,Eggplant Seed,Eggplant Seed
+death.attack.corruption_damage.item,%1$s was killed by %2$s using %3$s,%1$s was killed by %2$s using %3$s
+block.palamod.custom_gray_wool,Custom Gray Wool,Custom Gray Wool
+item.palamod.paladium_trim_5_helmet,Casque d'Paladium,Paladium Helmet
+item.palamod.paladium_trim_9_helmet,Casque d'Paladium,Paladium Helmet
+block.palamod.green_paladium_ore,Minerai de Green Paladium,Green Paladium Ore
+item.palamod.capture_stone_full_snow_golem.description_0,Entity = Snow Golem,Entity = Snow Golem
+item.palamod.paladium_trim_10_chestplate.description_0,Wild Armor Trim,Wild Armor Trim
+subtitles.best_sound,Paladium Best Sound,Paladium Best Sound
+item.palamod.amethyst_boots,Améthyste Boot,Amethyst Boot
+item.palamod.endium_fishing_rod,Endium Fishing Rod,Endium Fishing Rod
+gui.palamod.grinder_block_gui.label_melt_paladium,MELT - PALADIUM,MELT - PALADIUM
+item.palamod.titane_boots,Titane Boot,Titane Boot
+item.palamod.chaos_boots,Chaos Boot,Chaos Boot
+block.palamod.online_detector_on,Online Detector,Online Detector
+effect.palamod.corrupt_immune,Corrupt Immune,Corrupt Immune
+item.palamod.cave_helmet_helmet,Casque d'Cave,Cave Helmet
+item.minecraft.lingering_potion.effect.corrupted_potion,Lingering Potion of Corruption,Lingering Potion of Corruption
+item.palamod.kiwano_seed,Kiwano Seed,Kiwano Seed
+item.palamod.paladium_medium_ring,Paladium Medium Ring,Paladium Medium Ring
+item.palamod.head_sword,Head Sword,Head Sword
+item.palamod.hyper_jump_stick,Hyper Jump Stick,Hyper Jump Stick
+item.palamod.pig_boots,Pig Boot,Pig Boot
+block.palamod.endium_chest,Coffre de Endium,Endium Chest
+item.palamod.pig_leggings,Jambières de Pig,Pig Leggings
+block.palamod.hardened_obsidian,Hardened Obsidian,Hardened Obsidian
+block.palamod.red_slimepad,Red Slimepad,Red Slimepad
+subtitles.anti_fuze,Anti Fuze - Fuze III,Anti Fuze - Fuze III
+item.palamod.paladium_trim_1_chestplate,Plastron d'Paladium,Paladium Chestplate
+painting.palamod.through_the_stars.title,Through The Stars,Through The Stars
+item.palamod.pickaxe_head,Pioche Head,Pickaxe Head
+item.palamod.endium_medium_ring,Endium Medium Ring,Endium Medium Ring
+block.palamod.deepslate_green_paladium_ore,Minerai de Deepslate Green Paladium,Deepslate Green Paladium Ore
+painting.palamod.butterfly_here.title,Butterfly Here,Butterfly Here
+item.palamod.paladium_trim_10_helmet.description_0,Wild Armor Trim,Wild Armor Trim
+block.palamod.green_paladium_slab,Green Paladium Slab,Green Paladium Slab
+fluid.palamod.fake_water,Eau factice,Fake Water
+block.palamod.poison_obsidian,Poison Obsidian,Poison Obsidian
+item.palamod.chaos_leggings,Jambières de Chaos,Chaos Leggings
+item.palamod.paladium_trim_9_boots,Paladium Boot,Paladium Boot
+block.palamod.guardian_box_block,Guardian Box Block,Guardian Box Block
+item.palamod.legendary_stone_random,Legendary Stone Random,Legendary Stone Random
+item.palamod.green_paladium_boots,Green Paladium Boot,Green Paladium Boot
+item.palamod.legendary_stone_chaos,Legendary Stone Chaos,Legendary Stone Chaos
+item.palamod.paladium_book.description_0,Information Book: click to open,Information Book: click to open
+item.palamod.eggplant_seed,Eggplant Seed,Eggplant Seed
+item.palamod.orange_unclaim_finder,Orange Unclaim Finder,Orange Unclaim Finder
+item.palamod.legendary_stone_power.description_0,"Click and get powerful powers, resistance hearts and more","Click and get powerful powers, resistance hearts and more"
+item.palamod.green_paladium_particle,Green Paladium Particle,Green Paladium Particle
+item.palamod.diamond_particle,Diamond Particle,Diamond Particle
+item.palamod.xp_berry,XP Berry,XP Berry
+item.palamod.green_paladium_axe,Green Paladium Axe,Green Paladium Axe
+block.palamod.green_paladium_chest,Coffre de Green Paladium,Green Paladium Chest
+item.palamod.legendary_stone_invisibility,Legendary Stone Invisibility,Legendary Stone Invisibility
+item.palamod.strenght_orb,Strenght Orb,Strenght Orb
+item.palamod.invisible_boots,Invisible Boot,Invisible Boot
+painting.palamod.beauty_field.title,Beauty Field,Beauty Field
+block.palamod.custom_white_wool,Custom White Wool,Custom White Wool
+death.attack.corruption_damage.player,%1$s died whilst trying to escape %2$s,%1$s died whilst trying to escape %2$s
+block.palamod.jacaranda_pressure_plate,Jacaranda Pressure Plate,Jacaranda Pressure Plate
+item.palamod.endium_chestplate,Plastron d'Endium,Endium Chestplate
+item.palamod.paladium_trim_10_leggings,Jambières de Paladium,Paladium Leggings
+item.palamod.paladium_trim_10_helmet,Casque d'Paladium,Paladium Helmet
+item.palamod.fastsword_pattern,Fastsword Pattern,Fastsword Pattern
+item.palamod.paladium_trim_9_chestplate.description_0,Wayfinder Armor Trim,Wayfinder Armor Trim
+item.palamod.paladium_trim_7_boots,Paladium Boot,Paladium Boot
+block.palamod.paladium_anvil,Paladium Anvil,Paladium Anvil
+item.palamod.paladium_axe,Paladium Axe,Paladium Axe
+item.palamod.wrench,Wrench,Wrench
+item.palamod.paladium_trim_10_boots,Paladium Boot,Paladium Boot
+item.palamod.endium_back_pack,Endium Back Pack,Endium Back Pack
+block.palamod.erable_log,Erable Log,Erable Log
+block.palamod.green_paladium_stairs,Green Paladium Escaliers,Green Paladium Stairs
+item.palamod.invisible_leggings,Jambières de Invisible,Invisible Leggings
+effect.palamod.anti_fake_water,Anti Eau factice,Anti Fake Water
+item.palamod.amethyst_particle,Améthyste Particle,Amethyst Particle
+block.palamod.judeercercis_pressure_plate,Judeecercis Pressure Plate,Judeecercis Pressure Plate
+item.palamod.titane_pollen,Titane Pollen,Titane Pollen
+item.palamod.voidstone,Voidstone,Voidstone
+item.palamod.compressed_xp_berry,Compressed Xp Berry,Compressed Xp Berry
+block.palamod.custom_blue_wool,Custom Blue Wool,Custom Blue Wool
+item.palamod.legendary_stone_power,Legendary Stone Power,Legendary Stone Power
+item.minecraft.tipped_arrow.effect.corrupted_potion,Arrow of Corruption,Arrow of Corruption
+item.palamod.fuze_iii_spawn_egg,Fuze III Spawn Egg,Fuze III Spawn Egg
+entity.palamod.guardian_golem,Guardian Golem,Guardian Golem
+item.palamod.paladium_best_sound.desc,Paladium - Best Sound,Paladium - Best Sound
+item.palamod.unclaim_finder,Unclaim Finder,Unclaim Finder
+block.palamod.paladium_flower,Paladium Flower,Paladium Flower
+item.palamod.purifite_medium,Purifite Medium,Purifite Medium
+gui.palamod.safe_chest_gui.button_chan,Change,Change
+subtitles.refuzay,ReFuzay,ReFuzay
+block.palamod.kiwano_seed_stage_5,Kiwano Seed,Kiwano Seed
+item.palamod.corrupted_skeleton_spawn_egg,Corrupted Skeleton Spawn Egg,Corrupted Skeleton Spawn Egg
+block.palamod.kiwano_seed_stage_4,Kiwano Seed,Kiwano Seed
+item.palamod.iron_particle,Iron Particle,Iron Particle
+item.palamod.paladium_trim_7_leggings,Jambières de Paladium,Paladium Leggings
+item.palamod.legendary_stone_invisibility.description_0,Click and you will become invisible,Click and you will become invisible
+block.palamod.kiwano_seed_stage_3,Kiwano Seed,Kiwano Seed
+block.palamod.kiwano_seed_stage_2,Kiwano Seed,Kiwano Seed
+gui.palamod.menu_mod.label_palamod_20251,Palamod - 26.10.2,Palamod - 26.10.2
+block.palamod.kiwano_seed_stage_1,Kiwano Seed,Kiwano Seed
+gui.palamod.admin_radiogui.button_on_mappel_fuze_iii,On m'appel Fuze III,On m'appel Fuze III
+item.palamod.candy,Candy,Candy
+item.palamod.capture_stone_full_iron_golem,Capture Stone Full,Capture Stone Full
+item.palamod.endium_boots,Endium Boot,Endium Boot
+block.palamod.lava_obsidian,Lava Obsidian,Lava Obsidian
+item.palamod.money,Money,Money
+item.palamod.paladium_trim_5_boots,Paladium Boot,Paladium Boot
+item.palamod.speed_apple.description_0,Give you effect speed,Give you effect speed
+item.palamod.symbiotic_helmet,Casque d'Symbiotic,Symbiotic Helmet
+item.palamod.marinated_chicken,Marinated Chicken,Marinated Chicken
+block.palamod.cauldron_block,Cauldron Block,Cauldron Block
+item.palamod.paladium_trim_1_boots.description_0,Rib Armor Trim,Rib Armor Trim
+gui.palamod.crusher_gui.button_melttt,Ok,Ok
+gui.palamod.admin_radiogui.button_stop,STOP,STOP
+item.palamod.amethyst_fastsword,Améthyste Fastsword,Amethyst Fastsword
+item.palamod.paladium_gold_disk.desc,Gangnam Style,Gangnam Style
+block.palamod.custom_orange_wool,Custom Orange Wool,Custom Orange Wool
+item.palamod.guardian_stone,Guardian Stone,Guardian Stone
+item.palamod.capture_stone_full_wolf.description_0,Entity = Wolf,Entity = Wolf
+entity.minecraft.villager.palamod.christmas_villager,Christmas,Christmas
+gui.palamod.paladium_book_gui.label_this_mod_is_a_reproduction,This mod is a,This mod is a
+item.minecraft.tipped_arrow.effect.anti_fake,Arrow of Anti Fake,Arrow of Anti Fake
+item.palamod.paladium_trim_10_boots.description_0,Wild Armor Trim,Wild Armor Trim
+item.palamod.paladium_trim_2_leggings.description_0,Coast Armor Trim,Coast Armor Trim
+subtitles.roulette_paladienne,La Roulette Paladienne de Fuze III,La Roulette Paladienne de Fuze III
+item.palamod.palastrange_ingot,Palastrange Ingot,Palastrange Ingot
+block.palamod.corrupted_block,Corrupted Block,Corrupted Block
+item.palamod.paladium_particle,Paladium Particle,Paladium Particle
+gui.palamod.paladium_book_gui.label_reproduction_of_the,reproduction of the,reproduction of the
+item.palamod.voidstone_minage,Voidstone Minage,Voidstone Minage
+item.palamod.fake_endium_helmet,Casque d'Fake Endium,Fake Endium Helmet
+item.palamod.paladium_trim_4_boots,Paladium Boot,Paladium Boot
+gui.palamod.cauldrongui.label_cauldron,Cauldron,Cauldron
+item.palamod.endium_gauntlet,Endium Gauntlet,Endium Gauntlet
+item.palamod.paladium_trim_6_helmet.description_0,Tide Armor Trim,Tide Armor Trim
+block.palamod.water_wood,Birch Water Wood,Birch Water Wood
+item.palamod.paladium_hammer,Paladium Marteau,Paladium Hammer
+block.palamod.orange_blue_seed_stage_5,Orange Blue Seed,Orange Blue Seed
+item.palamod.paladium_gold_disk,Disque de musique,Music Disc
+block.palamod.orange_blue_seed_stage_4,Orange Blue Seed,Orange Blue Seed
+item.palamod.paladium_trim_4_chestplate,Plastron d'Paladium,Paladium Chestplate
+block.palamod.ostrya_planks,Ostrya Planks,Ostrya Planks
+block.palamod.orange_blue_seed_stage_1,Orange Blue Seed,Orange Blue Seed
+block.palamod.orange_blue_seed_stage_3,Orange Blue,Orange Blue
+block.palamod.orange_blue_seed_stage_2,Orange Blue Seed,Orange Blue Seed
+item.palamod.paladium_trim_3_boots,Paladium Boot,Paladium Boot
+gui.palamod.paladium_book_gui.label_survival_experience,survival experience,survival experience
+item.palamod.amethyst_back_pack,Améthyste Back Pack,Amethyst Back Pack
+item.palamod.green_paladium_chestplate,Plastron d'Green Paladium,Green Paladium Chestplate
+item.palamod.paladium_trim_4_leggings,Jambières de Paladium,Paladium Leggings
+painting.palamod.palalogo.title,Palalogo,Palalogo
+item.palamod.rainbow_sword,§1R§2a§3i§4n§5b§6o§7w§8 S§9w§ao§br§cd,§1R§2a§3i§4n§5b§6o§7w§8 S§9w§ao§br§cd
+effect.palamod.corruption,Corruption,Corruption
+item.minecraft.lingering_potion.effect.anti_fake,Lingering Potion of Anti Fake,Lingering Potion of Anti Fake
+item.palamod.capture_stone_full_pig,Capture Stone Full,Capture Stone Full
+item.palamod.capture_stone_full_cow,Capture Stone Full,Capture Stone Full
+block.palamod.jacaranda_slab,Jacaranda Slab,Jacaranda Slab
+item.palamod.symbiotic_chestplate,Plastron d'Symbiotic,Symbiotic Chestplate
+item.palamod.jump_chestplate,Plastron d'Jump,Jump Chestplate
+block.palamod.custom_magenta_wool,Custom Magenta Wool,Custom Magenta Wool
+painting.palamod.goldfish.author,Paladium,Paladium
+item.palamod.paladium_trim_4_chestplate.description_0,Raiser Armor Trim,Raiser Armor Trim
+item.palamod.paladium_trim_2_helmet,Casque d'Paladium,Paladium Helmet
+painting.palamod.the_beautifull_sky.title,The Beautifull Sky,The Beautifull Sky
+item.palamod.fallen_axe,Fallen Axe,Fallen Axe
+item.palamod.paladium_trim_1_boots,Paladium Boot,Paladium Boot
+item.palamod.tournament_red_helmet,Casque d'Tournament Red,Tournament Red Helmet
+item.palamod.paladium_trim_5_boots.description_0,Silence Armor Trim,Silence Armor Trim
+item.palamod.paladium_stick,Paladium Stick,Paladium Stick
+item.palamod.titane_chestplate,Plastron d'Titane,Titane Chestplate
+item.palamod.paladium_trim_7_helmet,Casque d'Paladium,Paladium Helmet
+gui.palamod.palabot_gui.label_palabot_inventory,Palabot Inventory,Palabot Inventory
+item.palamod.angelic_water_bucket,Angelic Water Bucket,Angelic Water Bucket
+item.palamod.tournament_blue_sword,Tournament Blue Sword,Tournament Blue Sword
+block.palamod.erable_pressure_plate,Erable Pressure Plate,Erable Pressure Plate
+item.palamod.present_bag,Present Bag,Present Bag
+item.palamod.amethyst_hoe,Améthyste Houe,Amethyst Hoe
+gui.palamod.golem_box_gui.label_guardian_box,Guardian Box,Guardian Box
+item.palamod.titane_excavator,Titane Excavator,Titane Excavator
+block.palamod.trixium_ore,Minerai de Trixium,Trixium Ore
+painting.palamod.large_sky.author,Paladium,Paladium
+item.palamod.ham,Ham,Ham
+item.palamod.symbiotic_boots,Symbiotic Boot,Symbiotic Boot
+gui.palamod.wrench_gui.button_empty,OK,OK
+block.palamod.paladium_ore,Minerai de Paladium,Paladium Ore
+item.palamod.august_ticket,August Ticket,August Ticket
+block.palamod.deepslate_paladium_ore,Minerai de Deepslate Paladium,Deepslate Paladium Ore
+advancements.go_paladiump.descr,Lets Go !!!!!!!!!!!!!!!,Lets Go !!!!!!!!!!!!!!!
+item.palamod.endium_mixed_helmet,Casque d'Mixed Endium,Mixed Endium Helmet
+item.palamod.gogglesofcommunity_helmet,Goggles of community,Goggles of community
+gui.palamod.paladium_book_gui.label_thank_you_for_playing,Thank you for playing,Thank you for playing
+item.palamod.heal_stick,Heal Stick,Heal Stick
+item.palamod.christmas_axe,Christmas Axe,Christmas Axe
+item.palamod.titane_broad_sword,Titane Broadsword,Titane Broadsword
+item.palamod.paladium_sword_17,Paladium Sword 1.7,Paladium Sword 1.7
+item.palamod.june_ticket,June Ticket,June Ticket
+block.palamod.endium_block,Endium Block,Endium Block
+block.palamod.endium_ore,Minerai de Endium,Endium Ore
+painting.palamod.beautifull_cherry_grove.title,Beautifull Cherry Grove,Beautifull Cherry Grove
+item.palamod.masque_squid_games_helmet,Casque d'Squid Games,Squid Games Helmet
+item.palamod.wing,Wing,Wing
+block.palamod.judeercercis_planks,Judeecercis Planks,Judeecercis Planks
+item.palamod.potion_launcher.description_0,Throw your potions without taking them in hand,Throw your potions without taking them in hand
+block.palamod.water_log,Birch Water Log,Birch Water Log
+item.palamod.compressed_amethyst,Compressed Améthyste,Compressed Amethyst
+item.palamod.paladium_trim_1_chestplate.description_0,Rib Armor Trim,Rib Armor Trim
+item.palamod.halloween_stone_broken,Halloween Stone Broken,Halloween Stone Broken
+item.palamod.palamod_categorie,Palamod Categorie,Palamod Categorie
+item.palamod.paladium_excavator,Paladium Excavator,Paladium Excavator
+item.palamod.paladium_book,Paladium Book,Paladium Book
+block.palamod.water_stairs,Birch Water Escaliers,Birch Water Stairs
+block.palamod.cave_block,Cave Block,Cave Block
+item.palamod.trixium,Trixium,Trixium
+item.palamod.titane_particle,Titane Particle,Titane Particle
+block.palamod.jacaranda_planks,Jacaranda Planks,Jacaranda Planks
+item.palamod.titane_sword,Titane Sword,Titane Sword
+item.palamod.anti_fuze_disk,Disque de musique,Music Disc
+item.palamod.chest_explorer,Coffre Explorer,Chest Explorer
+block.palamod.findium_lucky_block,Findium Lucky Block,Findium Lucky Block
+gui.palamod.paladium_book_gui.label_welcome_to_the_palamod_remade,Welcome to the Palamod,Welcome to the Palamod
+block.palamod.harpagophytum,Harpagophytum,Harpagophytum
+gui.palamod.back_pack_amethyst.label_backpack,Améthyste BackPack,Amethyst BackPack
+item.palamod.potion_launcher,Potion Launcher,Potion Launcher
+item.palamod.power_helmet,Casque d'Power,Power Helmet
+block.palamod.safe_chest,Coffre de Safe,Safe Chest
+item.palamod.paladium_back_pack,Paladium Back Pack,Paladium Back Pack
+block.palamod.findium_slab,Findium Slab,Findium Slab
+item.palamod.easter_ticket,Easter Ticket,Easter Ticket
+painting.palamod.good_space.author,Paladium,Paladium
+block.palamod.green_paladium_block,Green Paladium Block,Green Paladium Block
+block.palamod.findium_ore,Minerai de Findium,Findium Ore
+block.palamod.hunter_flower,Hunter Flower,Hunter Flower
+item.palamod.amethyst_pickaxe,Améthyste Pioche,Amethyst Pickaxe
+item.palamod.jeff_the_killer_spawn_egg,Jeff The Killer Spawn Egg,Jeff The Killer Spawn Egg
+block.palamod.xp_bush_step_2,XP Bush,XP Bush
+item.palamod.travel_boots,Travel Boot,Travel Boot
+item.palamod.golem_food,Croquette,Croquette
+block.palamod.christmas_ore,Minerai de Christmas,Christmas Ore
+item.palamod.halloween_stone,Halloween Stone,Halloween Stone
+item.palamod.halloween_music_disk,Disque de musique,Music Disc
+item.palamod.paladium_trim_6_boots,Paladium Boot,Paladium Boot
+item.palamod.candy_blue,Candy Blue,Candy Blue
+block.palamod.erable_fence_gate,Erable Fence Gate,Erable Fence Gate
+block.palamod.palaforge,Palaforge,Palaforge
+block.palamod.block_categorie,Block Categorie,Block Categorie
+item.palamod.anti_fuze_disk.desc,AntiFuze - Fuze III,AntiFuze - Fuze III
+item_group.palamod.pala_mod,§l§cPalamod,§l§cPalamod
+item.palamod.paladium_trim_7_helmet.description_0,Vex Armor Trim,Vex Armor Trim
+block.palamod.paladium_stairs,Paladium Escaliers,Paladium Stairs
+gui.palamod.main_menu_mod.label_palamod_20251,Palamod - 26.10.2,Palamod - 26.10.2
+item.palamod.sealed_xp_bottle,Sealed XP Bottle,Sealed XP Bottle
+item.palamod.paladium_head_fastsword,Paladium Head Fastsword,Paladium Head Fastsword
+item.palamod.paladium_trim_1_leggings.description_0,Rib Armor Trim,Rib Armor Trim
+item.palamod.green_paladium_helmet,Casque d'Green Paladium,Green Paladium Helmet
+block.palamod.ostrya_slab,Ostrya Slab,Ostrya Slab
+item.palamod.amethyst_sword,Améthyste Sword,Amethyst Sword
+block.palamod.grinder_frame,Broyeur Frame,Grinder Frame
+block.palamod.paladium_chest,Coffre de Paladium,Paladium Chest
+item.palamod.speed_stick,Speed Stick,Speed Stick
+item.palamod.paladium_trim_2_leggings,Jambières de Paladium,Paladium Leggings
+block.palamod.titane_stairs,Titane Escaliers,Titane Stairs
+item.palamod.paladium_trim_3_helmet,Casque d'Paladium,Paladium Helmet
+item.palamod.paladium_shovel,Paladium Shovel,Paladium Shovel
+block.palamod.erable_button,Bouton de Erable,Erable Button
+item.palamod.purifite_divine,Purifite Divine,Purifite Divine
+item.palamod.arty_spawn_egg,Arty Spawn Egg,Arty Spawn Egg
+block.palamod.hardened_obsidian_slab,Hardened Obsidian Slab,Hardened Obsidian Slab
+item.palamod.shovel_head,Shovel Head,Shovel Head
+item.palamod.titane_pickaxe,Titane Pioche,Titane Pickaxe
+item.palamod.pig_helmet,Casque d'Pig,Pig Helmet
+block.palamod.water_leaves,Birch Water Feuilles,Birch Water Leaves
+item.palamod.paladium_trim_6_helmet,Casque d'Paladium,Paladium Helmet
+item.minecraft.potion.effect.corrupted_potion,Potion of Corruption,Potion of Corruption
+block.palamod.findium_stairs,Findium Escaliers,Findium Stairs
+item.palamod.elucidator_sword,Elucidator Sword,Elucidator Sword
+item.palamod.pig_chestplate,Plastron d'Pig,Pig Chestplate
+subtitles.jingle_bell,Jingle Bell,Jingle Bell
+item.palamod.paladium_big_ring,Paladium Big Ring,Paladium Big Ring
+block.palamod.sulfuric_obsidian,Sulfuric Obsidian,Sulfuric Obsidian
+item.palamod.paladium_trim_9_helmet.description_0,Wayfinder Armor Trim,Wayfinder Armor Trim
+gui.palamod.online_detector_gui.onlinedetect,player,player
+item.palamod.paladium_trim_7_chestplate.description_0,Vex Armor Trim,Vex Armor Trim
+item.palamod.paladium_trim_7_chestplate,Plastron d'Paladium,Paladium Chestplate
+item.palamod.paladium_head_hammer,Paladium Head Marteau,Paladium Head Hammer
+item.palamod.tournament_red_boots,Tournament Red Boot,Tournament Red Boot
+item.palamod.paladium_fastsword,Paladium Fastsword,Paladium Fastsword
+block.palamod.ultra_safe_chest,Coffre de Ultra Safe,Ultra Safe Chest
+item.palamod.tournament_blue_chestplate,Plastron d'Tournament Blue,Tournament Blue Chestplate
+block.palamod.judeercercis_log,Judeecercis Log,Judeecercis Log
+item.palamod.order_leggings,Jambières de Order,Order Leggings
+item.palamod.green_paladium_leggings,Jambières de Green Paladium,Green Paladium Leggings
+item.palamod.green_paladium_hoe,Green Paladium Houe,Green Paladium Hoe
+item.palamod.tournament_red_leggings,Jambières de Tournament Red,Tournament Red Leggings
+block.palamod.obsidian_slab,Obsidian Slab,Obsidian Slab
+item.palamod.capture_stone_full_villager,Capture Stone Full,Capture Stone Full
+item.palamod.marinated_mutton,Marinated Mutton,Marinated Mutton
+block.palamod.water_slab,Birch Water Slab,Birch Water Slab
+item.palamod.paladium_trim_4_leggings.description_0,Raiser Armor Trim,Raiser Armor Trim
+painting.palamod.gray_horizon.author,Paladium,Paladium
+gui.palamod.mega_safe_chest_gui.label_safe_chest,Coffre de Mega Safe,Mega Safe Chest
+block.palamod.ostrya_wood,Ostrya Wood,Ostrya Wood
+painting.palamod.large_paladium.title,Large Paladium,Large Paladium
+gui.palamod.paladium_book_gui.label_good_games_player,Good Games player,Good Games player
+item.palamod.capture_stone_full_cow.description_0,Entity = Cow,Entity = Cow
+item.palamod.capture_stone_full_arty,Capture Stone Full,Capture Stone Full
+subtitles.squid_games,Squid - Games,Squid - Games
+gui.palamod.safe_chest_gui.label_safe_chest,Coffre de Safe,Safe Chest
+item.minecraft.potion.effect.anti_fake,Potion of Anti Fake,Potion of Anti Fake
+item.palamod.tournament_red_sword,Tournament Red Sword,Tournament Red Sword
+item.palamod.fake_endium_chestplate,Plastron d'Fake Endium,Fake Endium Chestplate
+item.palamod.tournament_blue_helmet,Casque d'Tournament Blue,Tournament Blue Helmet
+entity.palamod.fuze_iii,Fuze III,Fuze III
+item.palamod.paladium_best_sound,Disque de musique,Music Disc
+item.palamod.paladium_fishing_rod,Paladium Fishing Rod,Paladium Fishing Rod
+item.palamod.paladium_trim_3_chestplate,Plastron d'Paladium,Paladium Chestplate
+item.palamod.clash_kumiz.desc,Clash contre Kumiz Musique de Fuze,Clash contre Kumiz Musique de Fuze
+gui.palamod.ultra_safe_chest_gui.label_safe_chest,Coffre de Ultra Safe,Ultra Safe Chest
+item.palamod.paladium_trim_5_leggings,Jambières de Paladium,Paladium Leggings
+item.palamod.silwox_spawn_egg,SILWOX Spawn Egg,SILWOX Spawn Egg
+block.palamod.xp_bush,XP Bush,XP Bush
+item.palamod.fuze_reine_des_neige_disk.desc,Fuze La Reine des Neige,Fuze La Reine des Neige
+item.palamod.paladium_boots,Paladium Boot,Paladium Boot
+painting.palamod.minuit.author,Paladium,Paladium
+item.palamod.paladium_trim_5_helmet.description_0,Silence Armor Trim,Silence Armor Trim
+block.palamod.purple_slimepad,Purple Slimepad,Purple Slimepad
+item.palamod.endium_small_ring,Endium Small Ring,Endium Small Ring
+item.palamod.mixed_endium,Mixed Endium,Mixed Endium
+block.palamod.deepslate_findium_ore,Minerai de Deepslate Findium,Deepslate Findium Ore
+block.palamod.mystical_bookshelf,Mystical Bookshelf,Mystical Bookshelf
+block.palamod.orange_slimepad,Orange Slimepad,Orange Slimepad
+block.palamod.hardened_obsidian_stairs,Hardened Obsidian Escaliers,Hardened Obsidian Stairs
+item.palamod.marinated_porkchop,Marinated Porkchop,Marinated Porkchop
+item.palamod.christmas_leggings,Jambières de Christmas,Christmas Leggings
+item.palamod.paladium_trim_10_chestplate,Plastron d'Paladium,Paladium Chestplate
+item.palamod.paint_ball_yellow,Paint Ball Yellow,Paint Ball Yellow
+item.palamod.endium_mixed_leggings,Jambières de Mixed Endium,Mixed Endium Leggings
+gui.palamod.palamachine_gui.label_palamachine,Palamachine,Palamachine
+entity.palamod.jeff_the_killer,Jeff The Killer,Jeff The Killer
+block.palamod.ostrya_fence,Ostrya Fence,Ostrya Fence
+entity.palamod.corrupted_slime,Corrupted Slime,Corrupted Slime
+item.palamod.nexus_order,Nexus Shard Order,Nexus Shard Order
+item.palamod.titane_ingot,Titane Ingot,Titane Ingot
+entity.palamod.silwox,SILWOX,SILWOX
+item.palamod.obsidian_pickaxe,Obsidian Pioche,Obsidian Pickaxe
+item.palamod.green_paladium_shovel,Green Paladium Shovel,Green Paladium Shovel
+block.palamod.corruptedore,CORRUPTED ORE,CORRUPTED ORE
+gui.palamod.totem_of_flowery_gui.label_totem_of_flowery,Totem Of Flowery,Totem Of Flowery
+painting.palamod.in_the_desert.title,In The Desert,In The Desert
+item.palamod.chervil,Chervil,Chervil
+item.palamod.capture_stone_full_villager.description_0,Entity = Villager,Entity = Villager
+item.palamod.invisible_helmet,Casque d'Invisible,Invisible Helmet
+block.palamod.custom_lime_wool,Custom Lime Wool,Custom Lime Wool
+block.palamod.titane_slab,Titane Slab,Titane Slab
+item.palamod.order_helmet,Casque d'Order,Order Helmet
+block.palamod.mega_boom_obsidian,Mega Boom Obsidian,Mega Boom Obsidian
+item.palamod.mii_chalenge,Disque de musique,Music Disc
+item.palamod.paladium_trim_6_boots.description_0,Tide Armor Trim,Tide Armor Trim
+item.palamod.compressed_titane,Compressed Titane,Compressed Titane
+item.palamod.legendary_stone_chaos.description_0,Click and get random fragments or ingots from the world,Click and get random fragments or ingots from the world
+item.palamod.paladium_trim_4_boots.description_0,Raiser Armor Trim,Raiser Armor Trim
+block.palamod.paladium_banner,Paladium Banner,Paladium Banner
+item.palamod.paladium_trim_1_helmet.description_0,Rib Armor Trim,Rib Armor Trim
+item.palamod.paladium_trim_6_chestplate.description_0,Tide Armor Trim,Tide Armor Trim
+item.palamod.dynamite,Dynamite,Dynamite
+block.palamod.paladium_hopper,Paladium Hopper,Paladium Hopper
+item.palamod.symbiotic_leggings,Jambières de Symbiotic,Symbiotic Leggings
+item.palamod.paladium_trim_2_chestplate.description_0,Coast Armor Trim,Coast Armor Trim
+block.palamod.amethyst_slab,Améthyste Slab,Amethyst Slab
+block.palamod.custom_brown_wool,Custom Brown Wool,Custom Brown Wool
+subtitles.paladium_go,Paladium GO,Paladium GO
+item.palamod.endium_leggings,Jambières de Endium,Endium Leggings
+item.palamod.eggplant,Eggplant,Eggplant
+item.minecraft.splash_potion.effect.anti_fake,Splash Potion of Anti Fake,Splash Potion of Anti Fake
+entity.palamod.arty,Arty,Arty
+item.palamod.paladium_trim_6_chestplate,Plastron d'Paladium,Paladium Chestplate
+item.palamod.compressed_endium,Compressed Endium,Compressed Endium
+block.palamod.erable_slab,Erable Slab,Erable Slab
+item.palamod.paladium_helmet,Casque d'Paladium,Paladium Helmet
+item.palamod.jump_orb,Jump Orb,Jump Orb
+item.palamod.diamond_string,Diamond String,Diamond String
+gui.palamod.back_pack_titanevrai.label_backpack,Titane BackPack,Titane BackPack
+painting.palamod.goldfish.title,Goldfish,Goldfish
+subtitles.fuze_reine_des_neige,Fuze Reine Des Neige,Fuze Reine Des Neige
+item.palamod.nexus_chaos,Nexus Shard Chaos,Nexus Shard Chaos
+block.palamod.amethyst_block,Améthyste Block,Amethyst Block
+item.palamod.corrupted_splash_potion,Corrupted Splash Potion,Corrupted Splash Potion
+item.palamod.paladium_trim_7_leggings.description_0,Vex Armor Trim,Vex Armor Trim
+item.palamod.back_packitem,Back Pack,Back Pack
+gui.palamod.safe_chest_gui.changepass,Change Password,Change Password
+block.palamod.paladium_furnace,Paladium Furnace,Paladium Furnace
+item.palamod.endium_ingot,Endium Ingot,Endium Ingot
+gui.palamod.halloween_day.label_halloween_31th,Halloween 31th,Halloween 31th
+item.palamod.titane_axe,Titane Axe,Titane Axe
+entity.palamod.blue_palabot,BLUE Palabot,BLUE Palabot
+item.palamod.titane_shovel,Titane Shovel,Titane Shovel
+biome.palamod.corruption_world,Corruption,Corruption
+item.palamod.block_pattern,Block Pattern,Block Pattern
+item.palamod.tournament_blue_leggings,Jambières de Tournament Blue,Tournament Blue Leggings
+block.palamod.ostrya_fence_gate,Ostrya Fence Gate,Ostrya Fence Gate
+block.palamod.water_pressure_plate,Birch Water Pressure Plate,Birch Water Pressure Plate
+block.palamod.eggplant_seed_stage_2,Eggplant Seed,Eggplant Seed
+item.palamod.capture_stone_full_sheep,Capture Stone Full,Capture Stone Full
+block.palamod.eggplant_seed_stage_3,Eggplant Seed,Eggplant Seed
+subtitles.on_mappel_fuzeiii,Fuze III : on m'appel Fuze III,Fuze III : on m'appel Fuze III
+block.palamod.eggplant_seed_stage_4,Eggplant Seed,Eggplant Seed
+painting.palamod.the_purpul_butterfly.title,The Purpul Butterfly,The Purpul Butterfly
+item.palamod.endium_axe,Endium Axe,Endium Axe
+item.palamod.skeleton_chestplate,Plastron d'Skeleton,Skeleton Chestplate
+block.palamod.ostrya_log,Ostrya Log,Ostrya Log
+item.palamod.paladium_sword_17.description_0,Only Creative mode tool,Only Creative mode tool
+block.palamod.cobblebreaker,Cobblebreaker,Cobblebreaker
+block.palamod.big_obsidian,Big Obsidian,Big Obsidian
+block.palamod.water_button,Bouton de Birch Water,Birch Water Button
+painting.palamod.the_forest.title,The Forest,The Forest
+block.palamod.water_planks,Birch Water Planks,Birch Water Planks
+item.palamod.mars_ticket,Mars Ticket,Mars Ticket
+item.palamod.paladium_trim_8_leggings,Jambières de Paladium,Paladium Leggings
+block.palamod.paladium_slab,Paladium Slab,Paladium Slab
+item.palamod.amethyst_pollen,Améthyste Pollen,Amethyst Pollen
+item.palamod.paladium_trim_1_helmet,Casque d'Paladium,Paladium Helmet
+item.palamod.purifite_awesome,Purifite Awesome,Purifite Awesome
+gui.palamod.paladium_book_gui.label_this_mod_is_not,This mod is not an,This mod is not an
+gui.palamod.paladium_book_gui.label_give_you_a_perfect,give you a perfect,give you a perfect
+painting.palamod.butterfly_here.author,Paladium,Paladium
+biome.palamod.purified,Purified,Purified
+painting.palamod.good_space.title,Good Space,Good Space
+item.palamod.endium_seedplanter,Endium Seedplanter,Endium Seedplanter
+item.palamod.halloween_shovel,Halloween Shovel,Halloween Shovel
+block.palamod.amethyst_stairs,Améthyste Escaliers,Amethyst Stairs
+item.palamod.banana,Banana,Banana
+item.palamod.paladium_trim_3_leggings,Jambières de Paladium,Paladium Leggings
+item.palamod.chocolat_egg,Chocolat Egg,Chocolat Egg
+item_group.palamod.halloween,§eHalloween,§eHalloween
+gui.palamod.admin_radiogui.button_on_mappel_fuze_iii5,Halloween,Halloween
+gui.palamod.admin_radiogui.button_on_mappel_fuze_iii4,Mii Cover,Mii Cover
+gui.palamod.admin_radiogui.button_on_mappel_fuze_iii7,Christmas (Mariah Carey),Christmas (Mariah Carey)
+gui.palamod.admin_radiogui.button_on_mappel_fuze_iii6,Jingle Bell,Jingle Bell
+gui.palamod.admin_radiogui.button_on_mappel_fuze_iii9,Gangnam Style,Gangnam Style
+gui.palamod.admin_radiogui.button_on_mappel_fuze_iii8,Anti Fuze,Anti Fuze
+item.palamod.paladium_trim_3_leggings.description_0,Eye Armor Trim,Eye Armor Trim
+gui.palamod.admin_radiogui.button_on_mappel_fuze_iii1,Clash Kumiz,Clash Kumiz
+item.palamod.capture_stone_full_iron_golem.description_0,Entity = Iron Golem,Entity = Iron Golem
+block.palamod.jacaranda_log,Jacaranda Log,Jacaranda Log
+gui.palamod.admin_radiogui.button_on_mappel_fuze_iii3,Best Sound,Best Sound
+item.palamod.christmas_boots,Christmas Boot,Christmas Boot
+gui.palamod.admin_radiogui.button_on_mappel_fuze_iii2,Roulette Paladienne,Roulette Paladienne
+item.palamod.christmas_helmet,Casque d'Christmas,Christmas Helmet
+painting.palamod.palalogo.author,Paladium,Paladium
+fluid.palamod.angelic_water,Angelic Water,Angelic Water
+item.palamod.gold_mixed_coal,Gold Mixed Coal,Gold Mixed Coal
+gui.palamod.palaforge_gui.label_palaforge,Palaforge,Palaforge
+item.palamod.candy_green,Candy Green,Candy Green
+item.palamod.july_ticket,July Ticket,July Ticket
+gui.palamod.order_vs_chaos_gui.button_chaos,Chaos,Chaos
+item.palamod.paladium_go_disk,Disque de musique,Music Disc
+painting.palamod.large_sky.title,Large Sky,Large Sky
+block.palamod.obsidian_trapdoor,Obsidian Door,Obsidian Door
+item.palamod.may_ticket,May Ticket,May Ticket
+block.palamod.custom_yellow_wool,Custom Yellow Wool,Custom Yellow Wool
+item.palamod.paladium_trim_9_leggings,Jambières de Paladium,Paladium Leggings
+item.palamod.paladium_trim_3_chestplate.description_0,Eye Armor Trim,Eye Armor Trim
+item.palamod.sword_pattern,Sword Pattern,Sword Pattern
+painting.palamod.the_golem.title,The Golem,The Golem
+entity.palamod.red_palabot,RED Palabot,RED Palabot
+item.palamod.corrupted_lucky_sword,CORRUPTED.LUCKIUM.SWORD,CORRUPTED.LUCKIUM.SWORD
+item.palamod.silwox_head_helmet,SILWOX Head,SILWOX Head
+item.palamod.titane_leggings,Jambières de Titane,Titane Leggings
+item.palamod.paladium_seedplanter,Paladium Seedplanter,Paladium Seedplanter
+gui.palamod.cobblebreaker_gui.label_cobblebreaker,Cobblebreaker,Cobblebreaker
+item.palamod.star_helmet_helmet.description_0,The super Paladium Lucky Hat !!!,The super Paladium Lucky Hat !!!
+block.palamod.judeercercis_wood,Judeecercis Wood,Judeecercis Wood
+item.palamod.silwox_head_helmet.description_0,SILWOX Head,SILWOX Head
+block.palamod.judeercercis_stairs,Judeecercis Escaliers,Judeecercis Stairs
+item.palamod.spacefood.description_0,Is Space food miummm go in the moon,Is Space food miummm go in the moon
+block.palamod.judeercercis_fence,Judeecercis Fence,Judeecercis Fence
+item.palamod.multicolort_gift,Multicolort Gift,Multicolort Gift
+block.palamod.mineral_flower,Mineral Flower,Mineral Flower
+item.palamod.amethyst_broadsword,Améthyste Broadsword,Amethyst Broadsword
+key.palamod.slimy_helmet,Casque d'Slimy,Slimy Helmet
+block.palamod.guardian_block,Guardian Block,Guardian Block
+block.palamod.custom_green_wool,Custom Green Wool,Custom Green Wool
+item.palamod.endium_mixed_chestplate,Plastron d'Mixed Endium,Mixed Endium Chestplate
+item.palamod.paladium_trim_6_leggings.description_0,Tide Armor Trim,Tide Armor Trim
+block.palamod.custom_lightblue_wool,Custom Lighblue Wool,Custom Lighblue Wool
+item.palamod.marinated_rottenflesh,Marinated Rottenflesh,Marinated Rottenflesh
+item.palamod.paladium_trim_2_helmet.description_0,Coast Armor Trim,Coast Armor Trim
+item.palamod.trixiar_hat_helmet,Trixiar Hat,Trixiar Hat
+subtitles.mii,Mii Challenge,Mii Challenge
+item.palamod.paladium_leggings,Jambières de Paladium,Paladium Leggings
+item.palamod.titane_back_pack,Titane Back Pack,Titane Back Pack
+item.palamod.orange_blue,Orange Blue,Orange Blue
+item.palamod.red_unclaim_finder,Red Unclaim Finder,Red Unclaim Finder
+item.palamod.superman_cape_chestplate,Superman,Superman
+painting.palamod.beautifull_cherry_grove.author,Paladium,Paladium
+gui.palamod.load_thanks_you.label_palamod_20251,Thanks you for playing Palamod,Thanks you for playing Palamod
+block.palamod.trixium_block,Trixium Block,Trixium Block
+item.palamod.endium_nugget,Endium Nugget,Endium Nugget
+item.palamod.mini_golem,Mini Golem,Mini Golem
+block.palamod.custom_purpul_wool,Custom Purple Wool,Custom Purple Wool
+item.palamod.admin_radio,Admin Radio,Admin Radio
+gui.palamod.symbiotic_gui.label_symbiotic_armor,Symbiotic Armor,Symbiotic Armor
+painting.palamod.through_the_stars.author,Paladium,Paladium
+item.palamod.paladium_pollen,Paladium Pollen,Paladium Pollen
+item.palamod.paladium_trim_3_helmet.description_0,Eye Armor Trim,Eye Armor Trim
+block.palamod.cauldron_core,Cauldron Core,Cauldron Core
+block.palamod.endium_flower,Endium Flower,Endium Flower
+item.palamod.titane_fastsword,Titane Fastsword,Titane Fastsword
+biome.palamod.erable,Erable,Erable
+item.palamod.pickaxe_of_the_god.description_0,POG - Level : 1,POG - Level : 1
+block.palamod.erable_stairs,Erable Escaliers,Erable Stairs
+gui.palamod.crusher_gui.label_mixed_coal,Mixed Coal,Mixed Coal
+painting.palamod.in_the_desert.author,Paladium,Paladium
+item.palamod.shovel_pattern,Shovel Pattern,Shovel Pattern
+item.palamod.order_vs_chaos_book,Order Vs Chaos Book,Order Vs Chaos Book
+item.palamod.tournament_blue_boots,Tournament Blue Boot,Tournament Blue Boot
+item.palamod.axe_pattern,Axe Pattern,Axe Pattern
+advancements.welcometo_paladium.descr,Let the adventure begin!,Let the adventure begin!
+item.palamod.pog_item_tab,POG Item Tab,POG Item Tab
+item.palamod.purifier_hat_helmet,Purificateur Hat,Purifier Hat
+item.palamod.orange_blue_seed,Orange Blue Seed,Orange Blue Seed
+death.attack.corruption_damage,%1$s succumbed to corruption,%1$s succumbed to corruption
+item.palamod.paladium_trim_9_leggings.description_0,Wayfinder Armor Trim,Wayfinder Armor Trim
+item.palamod.paladium_small_ring,Paladium Small Ring,Paladium Small Ring
+item.palamod.halloween_axe,Halloween Axe,Halloween Axe
+gui.palamod.back_pack_paladium.label_backpack,Paladium BackPack,Paladium BackPack
+gui.palamod.admin_radiogui.label_admin_radio,Admin Radio,Admin Radio
+item.palamod.magical_tool,Magical Tool,Magical Tool
+item.palamod.chaos_chestplate,Plastron d'Chaos,Chaos Chestplate
+block.palamod.findium_block,Findium Block,Findium Block
+block.palamod.online_detector,Online Detector,Online Detector
+item.palamod.re_fuzay_disk.desc,ReFuzay,ReFuzay
+item.palamod.titane_hammer,Titane Marteau,Titane Hammer
+item.palamod.villager_head_helmet,Villager Head,Villager Head
+gui.palamod.paladium_book_gui.label_paladium_in_order_to,Paladium in order to,Paladium in order to
+item.palamod.jump_stick,Jump Stick,Jump Stick
+item.palamod.paladium_trim_8_helmet,Casque d'Paladium,Paladium Helmet
+block.palamod.guardian_box_frame,Guardian Box Frame,Guardian Box Frame
+block.palamod.angelic_water,Angelic Water,Angelic Water
+item.palamod.findium,Findium,Findium
+gui.palamod.paladium_book_gui.button_next,NEXT,NEXT
+item.palamod.sealed_xp_bottle_sealed,Sealed XP Bottle,Sealed XP Bottle
+item.palamod.wither_dust,Wither Dust,Wither Dust
+item.palamod.paladium_broadsword,Paladium Broadsword,Paladium Broadsword
+item.palamod.green_paladium_seedplanter,Green Paladium Seedplanter,Green Paladium Seedplanter
+block.palamod.antimatter,Antimatter,Antimatter
+gui.palamod.amethyst_chest_gui.label_paladium_chest,Coffre de Améthyste,Amethyst Chest
+item.palamod.green_paladium_pickaxe,Green Paladium Pioche,Green Paladium Pickaxe
+item.palamod.amethyst_excavator,Améthyste Excavator,Amethyst Excavator
+item.palamod.capture_sword,Capture Sword,Capture Sword
+item.palamod.amethyst_ingot,Améthyste Ingot,Amethyst Ingot
+block.palamod.erable_wood,Erable Wood,Erable Wood
+painting.palamod.gray_horizon.title,Gray Horizon,Gray Horizon
+item.palamod.paladium_trim_7_boots.description_0,Vex Armor Trim,Vex Armor Trim
+item.palamod.palabot_spawn_egg,Palabot Spawn Egg,Palabot Spawn Egg
+item.palamod.candy_pink,Candy Pink,Candy Pink
+gui.palamod.titane_chest_gui.label_paladium_chest,Coffre de Titane,Titane Chest
+item.palamod.legendary_stone_fortune,Legendary Stone Fortune,Legendary Stone Fortune
+item.palamod.capture_stone_full_mooshroom,Capture Stone Full,Capture Stone Full
+item.palamod.corrupted_zombie_spawn_egg,Corrupted Zombie Spawn Egg,Corrupted Zombie Spawn Egg
+item.palamod.axe_head,Axe Head,Axe Head
+item.palamod.legendary_stone_teleportation.description_0,Click to teleport to a random location,Click to teleport to a random location
+gui.palamod.paladium_book_gui.button_play,Play,Play
+item_group.palamod.pog_tab,§5Pioche Of The God,§5Pickaxe Of The God
+advancements.go_paladiump.title,[Level 1],[Level 1]
+item.palamod.paladium_mixed_coal,Paladium Mixed Coal,Paladium Mixed Coal
+item.palamod.paladium_bow,Paladium Bow,Paladium Bow
+item.palamod.music_fuze.desc,On m'appel Fuze III,On m'appel Fuze III
+entity.palamod.palabot,Palabot,Palabot
+biome.palamod.jacaranda,Jacaranda,Jacaranda
+block.palamod.titane_block,Titane Block,Titane Block
+item.palamod.paladium_ingot,Paladium Ingot,Paladium Ingot
+block.palamod.fake_water,Eau factice,Fake Water
+item.palamod.heal_orb,Heal Orb,Heal Orb
+item.palamod.paladium_trim_8_chestplate,Plastron d'Paladium,Paladium Chestplate
+item.palamod.endium_pickaxe,Endium Pioche,Endium Pickaxe
+block.palamod.custom_cyan_wool,Custom Cyan Wool,Custom Cyan Wool
+item.palamod.september_ticket,September Ticket,September Ticket
+gui.palamod.paladium_book_gui.label_identical_reproduction,"identical reproduction,","identical reproduction,"
+item.palamod.titane_seedplanter,Titane Seedplanter,Titane Seedplanter
+item.palamod.titane_hoe,Titane Houe,Titane Hoe
+gui.palamod.back_pack.label_backpack,BackPack,BackPack
+item.minecraft.splash_potion.effect.corrupted_potion,Splash Potion of Corruption,Splash Potion of Corruption
+item.palamod.candy_rainbow,Candy Rainbow,Candy Rainbow
+item.palamod.roller_boots,Roller,Roller
+item.palamod.blue_unclaim_finder,Blue Unclaim Finder,Blue Unclaim Finder
+block.palamod.birch_water_sappling,Birch Water Sappling,Birch Water Sappling
+item.palamod.corrupted,CORRUPTED CHRONO,CORRUPTED CHRONO
+item.palamod.corrupted_imune_potion,Corrupted Imune Potion,Corrupted Imune Potion
+item.palamod.candy_yellow,Candy Yellow,Candy Yellow
+block.palamod.ostrya_pressure_plate,Ostrya Pressure Plate,Ostrya Pressure Plate
+item.palamod.endium_big_ring,Endium Big Ring,Endium Big Ring
+block.palamod.endium_cave_block,Endium Cave Block,Endium Cave Block
+biome.palamod.ostrya,Ostrya,Ostrya
+item.palamod.paladium_trim_3_boots.description_0,Eye Armor Trim,Eye Armor Trim
+item.palamod.roulette_pala,Musik Disc,Musik Disc
+subtitles.christmas_music,Christmas Music - Mariah Carey,Christmas Music - Mariah Carey
+item.palamod.paladium_hat_helmet.description_0,The super Paladium Lucky Hat !!!,The super Paladium Lucky Hat !!!
+item.palamod.endium_sword,Endium Sword,Endium Sword
+item.palamod.christmas_axe.description_0,Ho Ho Ho Marry Christmas,Ho Ho Ho Marry Christmas
+item.palamod.paladium_trim_8_chestplate.description_0,Ward Armor Trim,Ward Armor Trim
+block.palamod.erable_fence,Erable Fence,Erable Fence
+fluid_type.palamod.fake_water,Eau factice,Fake Water
+fluid_type.palamod.angelic_water,Angelic Water,Angelic Water
+item.palamod.switch_arrow,Switch Arrow,Switch Arrow
+block.palamod.big_tnt,Big TNT,Big TNT
+block.palamod.endium_tnt,Endium TNT,Endium TNT
+block.palamod.effect_tnt,Effect TNT,Effect TNT
+block.palamod.wither_tnt,Wither TNT,Wither TNT
+item.palamod.raw_green_paladium,Raw Green Paladium,Raw Green Paladium
+item.palamod.raw_paladium,Raw Paladium,Raw Paladium
+item.palamod.raw_titane,Raw Titane,Raw Titane
+item.palamod.raw_amethyst,Raw Améthyste,Raw Amethyst
+block.palamod.raw_amethyst_block,Raw Améthyste Block,Raw Amethyst Block
+block.palamod.raw_titane_block,Raw Titane Block,Raw Titane Block
+block.palamod.raw_green_paladium_block,Raw Green Paladium Block,Raw Green Paladium Block
+block.palamod.raw_paladium_block,Raw Paladium Block,Raw Paladium Block
+item.palamod.faux.description_0,Who will be your victim?,Who will be your victim?
+item.palamod.faux,Faux,Faux
+item.palamod.ancient_leggings,Jambières de §6Ancient,§6Ancient Leggings
+item.palamod.ancient_boots,§6Ancient Boots,§6Ancient Boots
+item.palamod.ancient_helmet,Casque d'§6Ancient,§6Ancient Helmet
+item.palamod.ancient_chestplate,Plastron d'§6Ancient,§6Ancient Chestplate
+item.palamod.advanced_ancient_helmet.description_0,Combined with - LG FORTUNE,Combined with - LG FORTUNE
+item.palamod.advanced_ancient_chestplate,Casque d'§6Advanced Ancient,§6Advanced Ancient Helmet
+item.palamod.advanced_ancient_helmet,Casque d'§6Advanced Ancient,§6Advanced Ancient Helmet
+item.palamod.advanced_ancient_leggings,Casque d'§6Advanced Ancient,§6Advanced Ancient Helmet
+item.palamod.advanced_ancient_chestplate.description_0,Combined with - LG POWER,Combined with - LG POWER
+item.palamod.advanced_ancient_boots.description_0,Combined with - LG SPEED,Combined with - LG SPEED
+item.palamod.advanced_ancient_leggings.description_0,Combined with - LG CHAOS,Combined with - LG CHAOS
+item.palamod.advanced_ancient_boots,§6Advanced Ancient Boots,§6Advanced Ancient Boots
+block.palamod.amethyst_box,§5Améthyste Box,§5Amethyst Box
+block.palamod.amethyst_box_opened,Améthyste Box Opened,Amethyst Box Opened
+block.palamod.paladium_box,§cPaladium Box,§cPaladium Box
+block.palamod.paladium_box_opened,Paladium Box Opened,Paladium Box Opened
+item.palamod.paladium_key,§cPaladium Key,§cPaladium Key
+item.palamod.paladium_key.description_0,Use to open - Paladium Box,Use to open - Paladium Box
+item.palamod.amethyst_key,§5Améthyste Key,§5Amethyst Key
+item.palamod.amethyst_key.description_0,Use to open - Améthyste Box,Use to open - Amethyst Box
+item.palamod.invocker_stone,Invocker Stone,Invocker Stone
+item.palamod.invoker_chestplate,Plastron d'Invoker,Invoker Chestplate
+item.palamod.invoker_helmet,Casque d'Invoker,Invoker Helmet
+item.palamod.invoker_boots,Invoker Boots,Invoker Boots
+item.palamod.invoker_leggings,Jambières de Invoker,Invoker Leggings
+item.palamod.manelios_boots,Manelios Boots,Manelios Boots
+item.palamod.manelios_leggings,Jambières de Manelios,Manelios Leggings
+item.palamod.manelios_helmet,Casque d'Manelios,Manelios Helmet
+item.palamod.manelios_chestplate,Plastron d'Manelios,Manelios Chestplate
+item.palamod.manelios_reinforced_helmet,Casque d'Manelios Reinforced,Manelios Reinforced Helmet
+item.palamod.manelios_reinforced_chestplate,Plastron d'Manelios Reinforced,Manelios Reinforced Chestplate
+item.palamod.manelios_reinforced_boots,Manelios Reinforced Boots,Manelios Reinforced Boots
+item.palamod.manelios_reinforced_leggings,Jambières de Manelios Reinforced,Manelios Reinforced Leggings
+item.palamod.manelios_legendary_helmet,Casque d'Manelios Legendary,Manelios Legendary Helmet
+item.palamod.manelios_legendary_chestplate,Plastron d'Manelios Legendary,Manelios Legendary Chestplate
+item.palamod.manelios_legendary_leggings,Manelios Legendary Leggins,Manelios Legendary Leggins
+item.palamod.manelios_legendary_boots,Manelios Legendary Boots,Manelios Legendary Boots
+item.palamod.nimbria_helmet,Casque d'Nimbria,Nimbria Helmet
+item.palamod.nimbria_boots,Nimbria Boots,Nimbria Boots
+item.palamod.nimbria_chestplate,Plastron d'Nimbria,Nimbria Chestplate
+item.palamod.nimbria_leggings,Jambières de Nimbria,Nimbria Leggings
+item.palamod.nimbria_reinforced_chestplate,Plastron d'Nimbria Reinforced,Nimbria Reinforced Chestplate
+item.palamod.nimbria_reinforced_boots,Nimbria Reinforced Boots,Nimbria Reinforced Boots
+item.palamod.nimbria_reinforced_leggings,Jambières de Nimbria Reinforced,Nimbria Reinforced Leggings
+item.palamod.nimbria_reinforced_helmet,Casque d'Nimbria Reinforced,Nimbria Reinforced Helmet
+item.palamod.nimbria_legendary_boots,Nimbria Legendary Boots,Nimbria Legendary Boots
+item.palamod.nimbria_legendary_leggings,Jambières de Nimbria Legendary,Nimbria Legendary Leggings
+item.palamod.nimbria_legendary_helmet,Casque d'Nimbria Legendary,Nimbria Legendary Helmet
+item.palamod.nimbria_legendary_chestplate,Plastron d'Nimbria Legendary,Nimbria Legendary Chestplate
+item.palamod.talikus_chestplate,Plastron d'Talikus,Talikus Chestplate
+item.palamod.talikus_boots,Talikus Boots,Talikus Boots
+item.palamod.talikus_helmet,Casque d'Talikus,Talikus Helmet
+item.palamod.talikus_leggings,Jambières de Talikus,Talikus Leggings
+item.palamod.talikus_reinforced_chestplate,Plastron d'Talikus Reinforced,Talikus Reinforced Chestplate
+item.palamod.talikus_reinforced_leggings,Jambières de Talikus Reinforced,Talikus Reinforced Leggings
+item.palamod.talikus_reinforced_helmet,Casque d'Talikus Reinforced,Talikus Reinforced Helmet
+item.palamod.talikus_reinforced_boots,Talikus Reinforced Boots,Talikus Reinforced Boots
+item.palamod.talikus_legendary_boots,Talikus Legendary Boots,Talikus Legendary Boots
+item.palamod.talikus_legendary_helmet,Casque d'Talikus Legendary,Talikus Legendary Helmet
+item.palamod.talikus_legendary_leggings,Jambières de Talikus Legendary,Talikus Legendary Leggings
+item.palamod.talikus_legendary_chestplate,Plastron d'Talikus Legendary,Talikus Legendary Chestplate
+item.palamod.vitalys_leggings,Jambières de Vitalys,Vitalys Leggings
+item.palamod.vitalys_chestplate,Plastron d'Vitalys,Vitalys Chestplate
+item.palamod.vitalys_helmet,Casque d'Vitalys,Vitalys Helmet
+item.palamod.vitalys_boots,Vitalys Boots,Vitalys Boots
+item.palamod.vitalys_reinforced_boots,Vitalys Reinforced Boots,Vitalys Reinforced Boots
+item.palamod.vitalys_reinforced_helmet,Casque d'Vitalys Reinforced,Vitalys Reinforced Helmet
+item.palamod.vitalys_reinforced_leggings,Jambières de Vitalys Reinforced,Vitalys Reinforced Leggings
+item.palamod.vitalys_reinforced_chestplate,Plastron d'Vitalys Reinforced,Vitalys Reinforced Chestplate
+item.palamod.vitalys_legendary_helmet,Casque d'Vitalys Legendary,Vitalys Legendary Helmet
+item.palamod.vitalys_legendary_boots,Vitalys Legendary Boots,Vitalys Legendary Boots
+item.palamod.vitalys_legendary_chestplate,Plastron d'Vitalys Legendary,Vitalys Legendary Chestplate
+item.palamod.vitalys_legendary_leggings,Jambières de Vitalys Legendary,Vitalys Legendary Leggings
+item.palamod.invoker_sword,Invoker Sword,Invoker Sword
+item.palamod.manelios_sword,Manelios Sword,Manelios Sword
+item.palamod.manelios_reinforced_sword,Manelios Reinforced Sword,Manelios Reinforced Sword
+item.palamod.manelios_legendary_sword,Manelios Legendary Sword,Manelios Legendary Sword
+item.palamod.nimbria_sword,Nimbria Sword,Nimbria Sword
+item.palamod.nimbria_reinforced_sword,Nimbria Reinforced Sword,Nimbria Reinforced Sword
+item.palamod.nimbria_legendary_sword,Nimbria Legendary Sword,Nimbria Legendary Sword
+item.palamod.talikus_sword,Talikus Sword,Talikus Sword
+item.palamod.talikus_reinforced_sword,Talikus Reinforced Sword,Talikus Reinforced Sword
+item.palamod.talikus_legendary_sword,Talikus Legendary Sword,Talikus Legendary Sword
+item.palamod.vitalys_sword,Vitalys Sword,Vitalys Sword
+item.palamod.vitalys_reinforced_sword,Vitalys Reinforced Sword,Vitalys Reinforced Sword
+item.palamod.vitalys_legendary_sword,Vitalys Legendary Sword,Vitalys Legendary Sword
+gui.palamod.amethyst_box_gui.label_amethyst_box,Améthyste Box,Amethyst Box
+gui.palamod.amethyst_box_gui.label_inventory,Inventory,Inventory
+gui.palamod.paladium_box_gui.label_inventory,Inventory,Inventory
+gui.palamod.paladium_box_gui.label_amethyst_box,Paladium Box,Paladium Box
+item.palamod.diver_leggings,Jambières de Diver,Diver Leggings
+item.palamod.diver_helmet,Casque d'Diver,Diver Helmet
+item.palamod.diver_chestplate,Plastron d'Diver,Diver Chestplate
+item.palamod.diver_boots,Diver Boots,Diver Boots
+item.palamod.the_diver_spawn_egg,The Diver Spawn Egg,The Diver Spawn Egg
+entity.palamod.the_diver,The Diver,The Diver
+entity.palamod.furti_two,Furti Two,Furti Two
+item.palamod.furti_two_spawn_egg,Furti Two Spawn Egg,Furti Two Spawn Egg
+gui.palamod.warn.label_warning_for_the_palladium_and_a,"WARNING: For the paladium and amethyst boxes to work, please enable cheat options.","WARNING: For the paladium and amethyst boxes to work, please enable cheat options."
+item.palamod.wars_star,Wars Star,Wars Star
+item.palamod.universal_dollar_stone,Universal Dollar Stone,Universal Dollar Stone
+item.palamod.parchment.description_2,Secret code - 50L3A,Secret code - 50L3A
+item.palamod.parchment,Parchment,Parchment
+item.palamod.parchment.description_1,You have found the secret scroll,You have found the secret scroll
+item.palamod.parchment.description_0,Parchment: Ancient,Parchment: Ancient
+item.palamod.pala_scroll,Pala Scroll,Pala Scroll
+item.palamod.ame_scroll,Ame Scroll,Ame Scroll
+item.palamod.tita_scroll,Tita Scroll,Tita Scroll
+item.palamod.endi_scroll,Endi Scroll,Endi Scroll
+item.palamod.ancient_recipe,Ancient Recipe,Ancient Recipe
+item.palamod.ancient_recipe.description_0,Decipher the recipe,Decipher the recipe
+subtitles.pala_vs_ng,Pala Vs Ng,Pala Vs Ng
+item.palamod.pala_vs_ng,Disque de musique,Music Disc
+item.palamod.pala_vs_ng.desc,Paladium Vs NationGlory,Paladium Vs NationGlory
+block.minecraft.banner.palamod.parchment_paladium.lime,Lime Parchment Paladium,Lime Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.light_gray,Light Gray Parchment Paladium,Light Gray Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.brown,Brown Parchment Paladium,Brown Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.green,Green Parchment Paladium,Green Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.light_blue,Light Blue Parchment Paladium,Light Blue Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.pink,Pink Parchment Paladium,Pink Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.cyan,Cyan Parchment Paladium,Cyan Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.orange,Orange Parchment Paladium,Orange Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.red,Red Parchment Paladium,Red Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.gray,Gray Parchment Paladium,Gray Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.magenta,Magenta Parchment Paladium,Magenta Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.yellow,Yellow Parchment Paladium,Yellow Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.purple,Purple Parchment Paladium,Purple Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.white,White Parchment Paladium,White Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.blue,Blue Parchment Paladium,Blue Parchment Paladium
+block.minecraft.banner.palamod.parchment_paladium.black,Black Parchment Paladium,Black Parchment Paladium
+item.palamod.parchment.patterns,Parchment Paladium,Parchment Paladium
+block.minecraft.banner.palamod.banner_paladium.lime,Lime Paladium,Lime Paladium
+block.minecraft.banner.palamod.banner_paladium.brown,Brown Paladium,Brown Paladium
+block.minecraft.banner.palamod.banner_paladium.magenta,Magenta Paladium,Magenta Paladium
+block.minecraft.banner.palamod.banner_paladium.black,Black Paladium,Black Paladium
+block.minecraft.banner.palamod.banner_paladium.light_blue,Light Blue Paladium,Light Blue Paladium
+block.minecraft.banner.palamod.banner_paladium.yellow,Yellow Paladium,Yellow Paladium
+block.minecraft.banner.palamod.banner_paladium.purple,Purple Paladium,Purple Paladium
+block.minecraft.banner.palamod.banner_paladium.white,White Paladium,White Paladium
+block.minecraft.banner.palamod.banner_paladium.cyan,Cyan Paladium,Cyan Paladium
+block.minecraft.banner.palamod.banner_paladium.gray,Gray Paladium,Gray Paladium
+block.minecraft.banner.palamod.banner_paladium.light_gray,Light Gray Paladium,Light Gray Paladium
+block.minecraft.banner.palamod.banner_paladium.red,Red Paladium,Red Paladium
+block.minecraft.banner.palamod.banner_paladium.orange,Orange Paladium,Orange Paladium
+block.minecraft.banner.palamod.banner_paladium.green,Green Paladium,Green Paladium
+block.minecraft.banner.palamod.banner_paladium.blue,Blue Paladium,Blue Paladium
+block.minecraft.banner.palamod.banner_paladium.pink,Pink Paladium,Pink Paladium
+item.palamod.mixed_endium.patterns,Paladium,Paladium
+item.palamod.corrupted_portal_frame.description_0,Creative Only,Creative Only
+item.palamod.corrupted_portal_frame,Corrupted Portal Frame,Corrupted Portal Frame
+item.palamod.paladium_sword_17.description_1,Note: There is a rare way to obtain it in survival mode.,Note: There is a rare way to obtain it in survival mode.
+gui.palamod.main_menu_mod.label_winter_event_end_010126,Winter Event : End 01/01/26,Winter Event : End 01/01/26
+gui.palamod.menu_mod.label_winter_event_end_010126,Winter Event : End 01/01/26,Winter Event : End 01/01/26
+gui.palamod.paladium_chest_gui.label_inventory,Inventory,Inventory
+gui.palamod.g_paladium_chest_gui.label_paladium_chest,Coffre de Paladium,Paladium Chest
+gui.palamod.g_paladium_chest_gui.label_inventory,Inventory,Inventory
+gui.palamod.titane_chest_gui.label_inventory,Inventory,Inventory
+gui.palamod.amethyst_chest_gui.label_inventory,Inventory,Inventory
+gui.palamod.endium_chest_gui.label_inventory,Inventory,Inventory
+block.minecraft.banner.palamod.ingot_banner.white,White Ingot Banner,White Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.pink,Pink Ingot Banner,Pink Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.lime,Lime Ingot Banner,Lime Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.black,Black Ingot Banner,Black Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.light_gray,Light Gray Ingot Banner,Light Gray Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.purple,Purple Ingot Banner,Purple Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.red,Red Ingot Banner,Red Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.brown,Brown Ingot Banner,Brown Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.light_blue,Light Blue Ingot Banner,Light Blue Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.blue,Blue Ingot Banner,Blue Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.yellow,Yellow Ingot Banner,Yellow Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.gray,Gray Ingot Banner,Gray Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.cyan,Cyan Ingot Banner,Cyan Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.green,Green Ingot Banner,Green Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.orange,Orange Ingot Banner,Orange Ingot Banner
+block.minecraft.banner.palamod.ingot_banner.magenta,Magenta Ingot Banner,Magenta Ingot Banner
+block.minecraft.banner.palamod.block_banner.brown,Brown Block Banner,Brown Block Banner
+block.minecraft.banner.palamod.block_banner.orange,Orange Block Banner,Orange Block Banner
+block.minecraft.banner.palamod.block_banner.lime,Lime Block Banner,Lime Block Banner
+block.minecraft.banner.palamod.block_banner.pink,Pink Block Banner,Pink Block Banner
+block.minecraft.banner.palamod.block_banner.purple,Purple Block Banner,Purple Block Banner
+block.minecraft.banner.palamod.block_banner.magenta,Magenta Block Banner,Magenta Block Banner
+block.minecraft.banner.palamod.block_banner.blue,Blue Block Banner,Blue Block Banner
+block.minecraft.banner.palamod.block_banner.black,Black Block Banner,Black Block Banner
+block.minecraft.banner.palamod.block_banner.white,White Block Banner,White Block Banner
+block.minecraft.banner.palamod.block_banner.light_gray,Light Gray Block Banner,Light Gray Block Banner
+block.minecraft.banner.palamod.block_banner.gray,Gray Block Banner,Gray Block Banner
+block.minecraft.banner.palamod.block_banner.yellow,Yellow Block Banner,Yellow Block Banner
+block.minecraft.banner.palamod.block_banner.cyan,Cyan Block Banner,Cyan Block Banner
+block.minecraft.banner.palamod.block_banner.green,Green Block Banner,Green Block Banner
+block.minecraft.banner.palamod.block_banner.light_blue,Light Blue Block Banner,Light Blue Block Banner
+block.minecraft.banner.palamod.block_banner.red,Red Block Banner,Red Block Banner
+block.minecraft.banner.palamod.palapple_banner.orange,Orange Palapple Banner,Orange Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.light_blue,Light Blue Palapple Banner,Light Blue Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.pink,Pink Palapple Banner,Pink Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.magenta,Magenta Palapple Banner,Magenta Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.red,Red Palapple Banner,Red Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.yellow,Yellow Palapple Banner,Yellow Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.blue,Blue Palapple Banner,Blue Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.white,White Palapple Banner,White Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.lime,Lime Palapple Banner,Lime Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.green,Green Palapple Banner,Green Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.gray,Gray Palapple Banner,Gray Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.cyan,Cyan Palapple Banner,Cyan Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.light_gray,Light Gray Palapple Banner,Light Gray Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.purple,Purple Palapple Banner,Purple Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.brown,Brown Palapple Banner,Brown Palapple Banner
+block.minecraft.banner.palamod.palapple_banner.black,Black Palapple Banner,Black Palapple Banner
+item.palamod.palapple.patterns,Palapple Banner,Palapple Banner
+item.palamod.pala_scroll.patterns,Paladium,Paladium
+block.palamod.banner.parchment_paladium.purple,Purple Parchment Paladium,Purple Parchment Paladium
+block.palamod.banner.parchment_paladium.brown,Brown Parchment Paladium,Brown Parchment Paladium
+block.palamod.banner.parchment_paladium.blue,Blue Parchment Paladium,Blue Parchment Paladium
+block.palamod.banner.parchment_paladium.black,Black Parchment Paladium,Black Parchment Paladium
+block.palamod.banner.parchment_paladium.light_gray,Light Gray Parchment Paladium,Light Gray Parchment Paladium
+block.palamod.banner.parchment_paladium.pink,Pink Parchment Paladium,Pink Parchment Paladium
+block.palamod.banner.parchment_paladium.lime,Lime Parchment Paladium,Lime Parchment Paladium
+block.palamod.banner.parchment_paladium.red,Red Parchment Paladium,Red Parchment Paladium
+block.palamod.banner.parchment_paladium.light_blue,Light Blue Parchment Paladium,Light Blue Parchment Paladium
+block.palamod.banner.parchment_paladium.green,Green Parchment Paladium,Green Parchment Paladium
+block.palamod.banner.parchment_paladium.cyan,Cyan Parchment Paladium,Cyan Parchment Paladium
+block.palamod.banner.parchment_paladium.yellow,Yellow Parchment Paladium,Yellow Parchment Paladium
+block.palamod.banner.parchment_paladium.gray,Gray Parchment Paladium,Gray Parchment Paladium
+block.palamod.banner.parchment_paladium.magenta,Magenta Parchment Paladium,Magenta Parchment Paladium
+block.palamod.banner.parchment_paladium.orange,Orange Parchment Paladium,Orange Parchment Paladium
+block.palamod.banner.parchment_paladium.white,White Parchment Paladium,White Parchment Paladium
+block.palamod.banner.banner_paladium.orange,Orange Paladium,Orange Paladium
+block.palamod.banner.banner_paladium.lime,Lime Paladium,Lime Paladium
+block.palamod.banner.banner_paladium.brown,Brown Paladium,Brown Paladium
+block.palamod.banner.banner_paladium.magenta,Magenta Paladium,Magenta Paladium
+block.palamod.banner.banner_paladium.red,Red Paladium,Red Paladium
+block.palamod.banner.banner_paladium.green,Green Paladium,Green Paladium
+block.palamod.banner.banner_paladium.yellow,Yellow Paladium,Yellow Paladium
+block.palamod.banner.banner_paladium.white,White Paladium,White Paladium
+block.palamod.banner.banner_paladium.light_gray,Light Gray Paladium,Light Gray Paladium
+block.palamod.banner.banner_paladium.light_blue,Light Blue Paladium,Light Blue Paladium
+block.palamod.banner.banner_paladium.cyan,Cyan Paladium,Cyan Paladium
+block.palamod.banner.banner_paladium.gray,Gray Paladium,Gray Paladium
+block.palamod.banner.banner_paladium.blue,Blue Paladium,Blue Paladium
+block.palamod.banner.banner_paladium.pink,Pink Paladium,Pink Paladium
+block.palamod.banner.banner_paladium.purple,Purple Paladium,Purple Paladium
+block.palamod.banner.banner_paladium.black,Black Paladium,Black Paladium
+block.palamod.banner.ingot_banner.orange,Orange Ingot Banner,Orange Ingot Banner
+block.palamod.banner.ingot_banner.magenta,Magenta Ingot Banner,Magenta Ingot Banner
+block.palamod.banner.ingot_banner.light_blue,Light Blue Ingot Banner,Light Blue Ingot Banner
+block.palamod.banner.ingot_banner.green,Green Ingot Banner,Green Ingot Banner
+block.palamod.banner.ingot_banner.blue,Blue Ingot Banner,Blue Ingot Banner
+block.palamod.banner.ingot_banner.white,White Ingot Banner,White Ingot Banner
+block.palamod.banner.ingot_banner.lime,Lime Ingot Banner,Lime Ingot Banner
+block.palamod.banner.ingot_banner.pink,Pink Ingot Banner,Pink Ingot Banner
+block.palamod.banner.ingot_banner.black,Black Ingot Banner,Black Ingot Banner
+block.palamod.banner.ingot_banner.purple,Purple Ingot Banner,Purple Ingot Banner
+block.palamod.banner.ingot_banner.yellow,Yellow Ingot Banner,Yellow Ingot Banner
+block.palamod.banner.ingot_banner.cyan,Cyan Ingot Banner,Cyan Ingot Banner
+block.palamod.banner.ingot_banner.gray,Gray Ingot Banner,Gray Ingot Banner
+block.palamod.banner.ingot_banner.red,Red Ingot Banner,Red Ingot Banner
+block.palamod.banner.ingot_banner.light_gray,Light Gray Ingot Banner,Light Gray Ingot Banner
+block.palamod.banner.ingot_banner.brown,Brown Ingot Banner,Brown Ingot Banner
+block.palamod.banner.block_banner.cyan,Cyan Block Banner,Cyan Block Banner
+block.palamod.banner.block_banner.gray,Gray Block Banner,Gray Block Banner
+block.palamod.banner.block_banner.light_gray,Light Gray Block Banner,Light Gray Block Banner
+block.palamod.banner.block_banner.yellow,Yellow Block Banner,Yellow Block Banner
+block.palamod.banner.block_banner.magenta,Magenta Block Banner,Magenta Block Banner
+block.palamod.banner.block_banner.light_blue,Light Blue Block Banner,Light Blue Block Banner
+block.palamod.banner.block_banner.orange,Orange Block Banner,Orange Block Banner
+block.palamod.banner.block_banner.lime,Lime Block Banner,Lime Block Banner
+block.palamod.banner.block_banner.red,Red Block Banner,Red Block Banner
+block.palamod.banner.block_banner.black,Black Block Banner,Black Block Banner
+block.palamod.banner.block_banner.green,Green Block Banner,Green Block Banner
+block.palamod.banner.block_banner.purple,Purple Block Banner,Purple Block Banner
+block.palamod.banner.block_banner.blue,Blue Block Banner,Blue Block Banner
+block.palamod.banner.block_banner.white,White Block Banner,White Block Banner
+block.palamod.banner.block_banner.brown,Brown Block Banner,Brown Block Banner
+block.palamod.banner.block_banner.pink,Pink Block Banner,Pink Block Banner
+block.palamod.banner.palapple_banner.light_blue,Light Blue Palapple Banner,Light Blue Palapple Banner
+block.palamod.banner.palapple_banner.white,White Palapple Banner,White Palapple Banner
+block.palamod.banner.palapple_banner.blue,Blue Palapple Banner,Blue Palapple Banner
+block.palamod.banner.palapple_banner.red,Red Palapple Banner,Red Palapple Banner
+block.palamod.banner.palapple_banner.pink,Pink Palapple Banner,Pink Palapple Banner
+block.palamod.banner.palapple_banner.lime,Lime Palapple Banner,Lime Palapple Banner
+block.palamod.banner.palapple_banner.yellow,Yellow Palapple Banner,Yellow Palapple Banner
+block.palamod.banner.palapple_banner.light_gray,Light Gray Palapple Banner,Light Gray Palapple Banner
+block.palamod.banner.palapple_banner.cyan,Cyan Palapple Banner,Cyan Palapple Banner
+block.palamod.banner.palapple_banner.gray,Gray Palapple Banner,Gray Palapple Banner
+block.palamod.banner.palapple_banner.green,Green Palapple Banner,Green Palapple Banner
+block.palamod.banner.palapple_banner.orange,Orange Palapple Banner,Orange Palapple Banner
+block.palamod.banner.palapple_banner.black,Black Palapple Banner,Black Palapple Banner
+block.palamod.banner.palapple_banner.magenta,Magenta Palapple Banner,Magenta Palapple Banner
+block.palamod.banner.palapple_banner.brown,Brown Palapple Banner,Brown Palapple Banner
+block.palamod.banner.palapple_banner.purple,Purple Palapple Banner,Purple Palapple Banner
+item.palamod.developper_pickaxe,Developper Pioche,Developper Pickaxe
+gui.palamod.safe_chest_gui.label_inventory,Inventory,Inventory
+gui.palamod.safe_chest_first_setup.button_save,Save,Save
+gui.palamod.safe_chest_first_setup.safe_code,Create code !,Create code !
+gui.palamod.safe_chest_first_setup.label_safe_chest,Coffre de Safe,Safe Chest
+gui.palamod.auth_safe_gui.label_enter_code,Enter Code,Enter Code
+gui.palamod.auth_safe_gui.button_check,check,check
+gui.palamod.ultra_safe_chest_gui.label_inventory,Inventory,Inventory
+gui.palamod.mega_safe_chest_gui.label_inventory,Inventory,Inventory
+item.palamod.amethyst_upgrade_cobblebreaker,Améthyste Upgrade Cobblebreaker,Amethyst Upgrade Cobblebreaker
+item.palamod.paladium_upgrade_cobblebreaker,Paladium Upgrade Cobblebreaker,Paladium Upgrade Cobblebreaker
+gui.palamod.paladium_furnace_gui.label_paladium_furnace,Paladium Furnace,Paladium Furnace
+gui.palamod.paladium_furnace_gui.label_inventory,Inventory,Inventory
+item.palamod.furnace_upgrade,Furnace Upgrade,Furnace Upgrade
+item.palamod.admin_key,Admin Key,Admin Key
+gui.palamod.admind_key_gui.label_admin_key,Admin Key,Admin Key
+gui.palamod.admind_key_gui.button_safe_chest,Coffre de Safe,Safe Chest
+gui.palamod.admind_key_gui.button_mega_safe_chest,Coffre de Mega Safe,Mega Safe Chest
+gui.palamod.admind_key_gui.button_ultra_safe_chest,Coffre de Ultra Safe,Ultra Safe Chest
+block.palamod.withered_obsidian,Withered Obsidian,Withered Obsidian
+biome.palamod.miner_biome,Miner,Miner
+subtitles.paladium_10years,Paladium 10 Years,Paladium 10 Years
+subtitles.order_vs_chaos,Order Vs Chaos,Order Vs Chaos
+subtitles.companion,Companion,Companion
+subtitles.palamod_birthday,Palamod Birthday,Palamod Birthday
+item.palamod.palamod_birthday,Disque de musique,Music Disc
+item.palamod.palamod_birthday.description_1,But also the 1st anniversary of Palamod Recreated,But also the 1st anniversary of Palamod Recreated
+item.palamod.palamod_birthday.description_0,The 10th anniversary of Palladium,The 10th anniversary of Palladium
+item.palamod.palamod_birthday.description_2,Thank you all,Thank you all
+item.palamod.palamod_birthday.desc,Palamod Birthday,Palamod Birthday
+item.palamod.miner_portal_frame.description_0,creative only,creative only
+item.palamod.miner_portal_frame,Miner Portal Frame,Miner Portal Frame
+block.palamod.halloween_lucky_block,Halloween Lucky Block,Halloween Lucky Block
+block.palamod.august_lucky_block,August Lucky Block,August Lucky Block
+block.palamod.july_lucky_block,July Lucky Block,July Lucky Block
+block.palamod.september_lucky_block,September Lucky Block,September Lucky Block
+block.palamod.june_lucky_block,June Lucky Block,June Lucky Block
+block.palamod.may_lucky_block,May Lucky Block,May Lucky Block
+block.palamod.march_lucky_block,March Lucky Block,March Lucky Block
+block.palamod.christmas_lucky_block,Christmas Lucky Block,Christmas Lucky Block
+block.palamod.november_lucky_block,November Lucky Block,November Lucky Block
+block.palamod.easter_lucky_block,Easter Lucky Block,Easter Lucky Block
+block.palamod.drawbridge,Drawbridge,Drawbridge
+gui.palamod.drawbridge_gui.label_drawbridge,Drawbridge,Drawbridge
+gui.palamod.online_detector_gui.player_name,player,player
+gui.palamod.online_detector_gui.button_detect,Detect,Detect
+gui.palamod.online_detector_gui.label_player,Player :,Player :
+item.palamod.titane_upgrade_cobblebreaker,Titane Upgrade Cobblebreaker,Titane Upgrade Cobblebreaker
+block.palamod.totem_of_fertility,Totem Of Fertility,Totem Of Fertility
+block.palamod.sand_egg,Sand Egg,Sand Egg
+block.palamod.ore_egg,Minerai Egg,Ore Egg
+block.palamod.magma_egg,Magma Egg,Magma Egg
+block.palamod.end_stone_egg,End Stone Egg,End Stone Egg
+block.palamod.ice_egg,Ice Egg,Ice Egg
+block.palamod.candy_egg,Candy Egg,Candy Egg
+block.palamod.water_egg,Water Egg,Water Egg
+block.palamod.leaves_egg,Feuilles Egg,Leaves Egg
+block.palamod.antique_box,§6Antique Box,§6Antique Box
+block.palamod.antique_box_opened,§6Antique Box Opened,§6Antique Box Opened
+item.palamod.antique_key.description_0,§aUse to open - §6Antique Box,§aUse to open - §6Antique Box
+item.palamod.antique_key,§6Antique Key,§6Antique Key
+subtitles.antique_box_idle,Antique Idle,Antique Idle
+subtitles.antique_open,Antique_Open,Antique_Open
+item.palamod.ancient_hammer,§6Ancient Marteau,§6Ancient Hammer
+item.palamod.advanced_ancient_hammer,§6Advanced Ancient Marteau,§6Advanced Ancient Hammer
+subtitles.ancient_armor_equip,ancient_armor_equip,ancient_armor_equip
+item.palamod.beta,Beta,Beta
+item.palamod.paladium_recreated,Paladium Recreated,Paladium Recreated
+item.palamod.itempala,Itempala,Itempala
+item.palamod.tools_pala,Tools Pala,Tools Pala
+item.palamod.blocks_pala,Blocks Pala,Blocks Pala
+gui.palamod.antique_box_gui.label_amethyst_box,Antique Box,Antique Box
+gui.palamod.antique_box_gui.label_inventory,Inventory,Inventory
+item.palamod.remote_control,Remote Control,Remote Control
+palamod.procedure.airdrop,An air drop appear on this coordinates :,An air drop appear on this coordinates :
+palamod.procedure.airdrop2,"If you want the content of it, get quick","If you want the content of it, get quick"
+entity.palamod.airdrop,Airdrop,Airdrop
+subtitles.airdrop_open,Air Drop Open,Air Drop Open
+subtitles.remote_air_drop,Remote Air Drop,Remote Air Drop
+death.attack.fake_water_damage,%1$s died in the fake water,%1$s died in the fake water
+death.attack.fake_water_damage.item,%1$s was killed by %2$s using %3$s,%1$s was killed by %2$s using %3$s
+death.attack.fake_water_damage.player,%1$s died whilst trying to escape %2$s,%1$s died whilst trying to escape %2$s
+block.palamod.colored_lamp,Colored Lamp,Colored Lamp
+block.palamod.colored_lamp_on,Colored Lamp On,Colored Lamp On
+block.palamod.cobblebreaker_amethyst,Cobblebreaker,Cobblebreaker
+block.palamod.cobblebreaker_titan,Cobblebreaker,Cobblebreaker
+block.palamod.cobblebreaker_paladium,Cobblebreaker,Cobblebreaker
+block.palamod.paladium_furnace_fire,Paladium Furnace,Paladium Furnace
+subtitles.the_battle,The Battle,The Battle
+subtitles.dungeon,Dungeon,Dungeon
+item.palamod.dungeon,Disque de musique,Music Disc
+item.palamod.dungeon.desc,Dungeon,Dungeon
+item.palamod.the_battle.desc,The Battle,The Battle
+item.palamod.the_battle,Disque de musique,Music Disc
+item.palamod.frigoria_leggings,Jambières de Frigoria,Frigoria Leggings
+item.palamod.frigoria_helmet,Casque d'Frigoria,Frigoria Helmet
+item.palamod.frigoria_chestplate,Plastron d'Frigoria,Frigoria Chestplate
+item.palamod.frigoria_boots,Frigoria Boots,Frigoria Boots
+item.palamod.frigoria_reinforced_chestplate,Plastron d'Frigoria Reinforced,Frigoria Reinforced Chestplate
+item.palamod.frigoria_reinforced_helmet,Casque d'Frigoria Reinforced,Frigoria Reinforced Helmet
+item.palamod.frigoria_reinforced_boots,Frigoria Reinforced Boots,Frigoria Reinforced Boots
+item.palamod.frigoria_reinforced_leggings,Jambières de Frigoria Reinforced,Frigoria Reinforced Leggings
+item.palamod.frigoria_legendary_helmet,Casque d'Frigoria Legendary,Frigoria Legendary Helmet
+item.palamod.frigoria_legendary_leggings,Jambières de Frigoria Legendary,Frigoria Legendary Leggings
+item.palamod.frigoria_legendary_boots,Frigoria Legendary Boots,Frigoria Legendary Boots
+item.palamod.frigoria_legendary_chestplate,Plastron d'Frigoria Legendary,Frigoria Legendary Chestplate
+item.palamod.frigoria_sword,Frigoria Sword,Frigoria Sword
+item.palamod.frigoria_reinforced_sword,Frigoria Reinforced Sword,Frigoria Reinforced Sword
+item.palamod.frigoria_legendary_sword,Frigoria Legendary Sword,Frigoria Legendary Sword
+block.palamod.lucky_drawer,Lucky Drawer,Lucky Drawer
+gui.palamod.menu_help.label_welcome_to_palamod_recreated_hel,Welcome to Palamod Help,Welcome to Palamod Help
+gui.palamod.menu_help.button_tools,Tools,Tools
+gui.palamod.menu_help.button_voidstone_minage,Items,Items
+gui.palamod.menu_help.button_stockages,Stockages,Stockages
+gui.palamod.menu_help.button_lucky_block,Lucky Block,Lucky Block
+gui.palamod.menu_help.button_commands,Commands,Commands
+gui.palamod.menu_help.button_trades,Trades,Trades
+gui.palamod.menu_help.button_events,Events,Events
+gui.palamod.menu_help.button_mobs,Mobs,Mobs
+gui.palamod.menu_help.button_armors,Armors,Armors
+gui.palamod.menu_help.button_box,Box,Box
+gui.palamod.menu_help.button_crusher,Blocks,Blocks
+gui.palamod.help_block.button_cobblebreaker,Cobblebreaker,Cobblebreaker
+gui.palamod.help_block.button_grinder,Broyeur,Grinder
+gui.palamod.help_block.button_guardian_box,Guardian Box,Guardian Box
+gui.palamod.help_block.button_cauldron,Cauldron,Cauldron
+gui.palamod.help_block.button_palamachine,Palamachine,Palamachine
+gui.palamod.help_block.button_palafurnace,Palafurnace,Palafurnace
+gui.palamod.help_block.button_crusher,Crusher,Crusher
+gui.palamod.help_block.button_palaforge,Palaforge,Palaforge
+gui.palamod.help_items.button_palafurnace,Palafurnace,Palafurnace
+gui.palamod.help_items.button_palamachine,Palamachine,Palamachine
+gui.palamod.help_items.button_guardian_box,Guardian Box,Guardian Box
+gui.palamod.help_items.button_cobblebreaker,Cobblebreaker,Cobblebreaker
+gui.palamod.help_items.button_crusher,Ingots,Ingots
+gui.palamod.help_items.button_grinder,All Sticks,All Sticks
+gui.palamod.help_items.button_cauldron,Cauldron,Cauldron
+gui.palamod.help_items.button_palaforge,Palaforge,Palaforge
+gui.palamod.help_commands.button_crusher,/support,/support
+gui.palamod.help_commands.button_grinder,/Feed,/Feed
+gui.palamod.help_armors.button_grinder,Ancient,Ancient
+gui.palamod.help_armors.button_crusher,Endium,Endium
+gui.palamod.help_tools.button_grinder,Ancient,Ancient
+gui.palamod.help_tools.button_crusher,Endium,Endium
+gui.palamod.help_trades.button_grinder,Trixiar,Trixiar
+gui.palamod.help_mobs.button_grinder,Arty,Arty
+gui.palamod.help_mobs.button_crusher,Corrupted Zombie,Corrupted Zombie
+gui.palamod.help_box.button_grinder,Paladium Box,Paladium Box
+gui.palamod.help_box.button_crusher,Antique Box,Antique Box
+gui.palamod.help_events.button_crusher,Back,Back
+gui.palamod.help_items.button_lightning_potions,Lightning Potions,Lightning Potions
+gui.palamod.help_items.button_legendary_stones,Legendary Stones,Legendary Stones
+gui.palamod.help_items.button_xp_bottles,XP Bottles,XP Bottles
+gui.palamod.help_items.button_void_stone,Void Stone,Void Stone
+gui.palamod.help_items.button_disc,Pattern,Pattern
+gui.palamod.help_items.button_rings,Rings,Rings
+gui.palamod.help_items.button_dynamite,Dynamite,Dynamite
+gui.palamod.help_items.button_fluids,Fluids,Fluids
+gui.palamod.help_items.button_seeds,Seeds,Seeds
+gui.palamod.help_items.button_endium_gauntlet,Endium Gauntlet,Endium Gauntlet
+gui.palamod.help_items.button_mixed_coal,Mixed Coal,Mixed Coal
+gui.palamod.help_items.button_unclaim_finder,Unclaim Finder,Unclaim Finder
+gui.palamod.help_items.button_capture_stone,Capture Stone,Capture Stone
+gui.palamod.help_items.button_switch_arrow,Switch Arrow,Switch Arrow
+gui.palamod.help_commands.button_home_sethome_delhome,/home /sethome /delhome,/home /sethome /delhome
+gui.palamod.help_armors.button_amethyst,Améthyste,Amethyst
+gui.palamod.help_armors.button_paladium_green,Paladium / Green,Paladium / Green
+gui.palamod.help_armors.button_titane,Titane,Titane
+gui.palamod.help_armors.button_mixed_endium,Mixed Endium,Mixed Endium
+gui.palamod.help_armors.button_travel,Travel,Travel
+gui.palamod.help_armors.button_tournaments,Tournaments,Tournaments
+gui.palamod.help_tools.button_excavator,Excavator,Excavator
+gui.palamod.help_tools.button_broadsword,Broadsword,Broadsword
+gui.palamod.help_tools.button_titane,Titane,Titane
+gui.palamod.help_tools.button_fastsword,Fastsword,Fastsword
+gui.palamod.help_tools.button_infernal_knocker,Infernal Knocker,Infernal Knocker
+gui.palamod.help_tools.button_hammer,Marteau,Hammer
+gui.palamod.help_tools.button_paladium_green,Paladium / Green,Paladium / Green
+gui.palamod.help_tools.button_pickaxe_of_the_god,Pioche Of The God,Pickaxe Of The God
+gui.palamod.help_tools.button_amethyst,Améthyste,Amethyst
+gui.palamod.help_trades.button_corrupted,Purificateur,Purifier
+gui.palamod.help_trades.button_christmas_villager,Christmas Villager,Christmas Villager
+gui.palamod.help_lucky_block.label_currently_unavailable,Currently unavailable,Currently unavailable
+gui.palamod.help_mobs.button_the_diver,The Diver,The Diver
+gui.palamod.help_mobs.button_guardian_golem,Guardian Golem,Guardian Golem
+gui.palamod.help_mobs.button_corrupted_skeleton,Corrupted Skeleton,Corrupted Skeleton
+gui.palamod.help_mobs.button_jeff_the_killer,Jeff The Killer,Jeff The Killer
+gui.palamod.help_mobs.button_corrupted_slime,Corrupted Slime,Corrupted Slime
+gui.palamod.help_mobs.button_fuze_iii,Fuze III,Fuze III
+gui.palamod.help_mobs.button_silwox,SILWOX,SILWOX
+gui.palamod.help_mobs.button_palabot,Palabot,Palabot
+gui.palamod.help_box.button_amethyst_box,Améthyste Box,Amethyst Box
+gui.palamod.help_block.button_container,Container,Container
+gui.palamod.help_block.button_ores,Minerais,Ores
+gui.palamod.help_grinder.label_the_grinder_allows_for_crafting,The Broyeur can be used,The Grinder can be used
+gui.palamod.help_grinder.label_broadsword,- Broadsword,- Broadsword
+gui.palamod.help_grinder.label_hammer,- Marteau,- Hammer
+gui.palamod.help_grinder.label_various_tools_including,"many different tools,","many different tools,"
+gui.palamod.help_grinder.label_fastsword,- Fastsword,- Fastsword
+gui.palamod.help_grinder.label_including,including :,including :
+gui.palamod.help_grinder.label_socket,- Socket,- Socket
+gui.palamod.help_grinder.label_1,1,1
+gui.palamod.help_grinder.label_must_contain_paladium,! Must contain Paladium,! Must contain Paladium
+gui.palamod.help_grinder.label_tools_head,- Tools Head,- Tools Head
+gui.palamod.help_grinder.label_2,2,2
+gui.palamod.help_grinder.label_for_crafting,to crafting,to crafting
+gui.palamod.help_grinder.label_3,3,3
+gui.palamod.help_grinder.label_pattern,- Pattern,- Pattern
+gui.palamod.help_crusher.label_many_craft,- Many Craft,- Many Craft
+gui.palamod.help_crusher.label_x64,x64,x64
+gui.palamod.help_crusher.label_only_orange_blue,Only Orange Blue,Only Orange Blue
+gui.palamod.help_cobblebreaker.label_upgrade,Upgrade,Upgrade
+gui.palamod.help_palamachine.label_view_paladium_wiki,View paladium wiki for all craft,View paladium wiki for all craft
+gui.palamod.help_cauldron.label_7x7,7x7,7x7
+gui.palamod.help_cauldron.label_give_pollen,Give pollen,Give pollen
+gui.palamod.help_palafurnace.label_max_16,Max - 16,Max - 16
+gui.palamod.help_guardian_box.label_1,1,1
+gui.palamod.help_guardian_box.label_2,2,2
+gui.palamod.help_guardian_box.label_3,3,3
+gui.palamod.help_rings.label_800,800,800
+gui.palamod.help_rings.label_1000,1000,1000
+gui.palamod.help_rings.label_restore_your_durability,Restore your durability :,Restore your durability :
+gui.palamod.help_rings.label_3000,3000,3000
+gui.palamod.help_rings.label_1400,1400,1400
+gui.palamod.help_rings.label_1800,1800,1800
+gui.palamod.help_rings.label_armors_tools,- Armors & Tools,- Armors & Tools
+gui.palamod.help_rings.label_600,600,600
+gui.palamod.help_sticks.label_gives_a_strength_2_effect,Gives a Strength 2 effect,Gives a Strength 2 effect
+gui.palamod.help_sticks.label_there_is_a_recharge_time_after_u,there is a recharge time after use,there is a recharge time after use
+gui.palamod.help_sticks.label_restores_all_your_health_points,Restores all your health,Restores all your health
+gui.palamod.help_sticks.label_effects_for_a_few_seconds,effects for a few seconds.,effects for a few seconds.
+gui.palamod.help_sticks.label_gives_a_speed_2_effect,Gives a speed 2 effect,Gives a speed 2 effect
+gui.palamod.help_sticks.label_you_give_a_mixture_of_several_ef,You give a mixture of several,You give a mixture of several
+gui.palamod.help_sticks.label_gives_a_jump_boost_2_effect,Gives a Jump Boost 2 effect,Gives a Jump Boost 2 effect
+gui.palamod.help_sticks.label_the_short_sound_effect,! The short sound effect,! The short sound effect
+gui.palamod.help_sticks.label_makes_you_jump_very_high,Makes you jump very high,Makes you jump very high
+gui.palamod.help_dynamite.label_which_creates_a_large_explosion,which creates a big explosion,which creates a big explosion
+gui.palamod.help_dynamite.label_throw_dynamite_made_of_endium,"Throw dynamite made of endium,","Throw dynamite made of endium,"
+gui.palamod.help_dynamite.label_throw_dynamite_that_creates,Throw dynamite that creates,Throw dynamite that creates
+gui.palamod.help_dynamite.label_an_explosion_like_tnt,an explosion like TNT.,an explosion like TNT.
+gui.palamod.help_seeds.label_allows_you_to_grow_chervil,Allows you to grow Chervil,Allows you to grow Chervil
+gui.palamod.help_seeds.label_allows_you_to_grow_kiwano,Allows you to grow Kiwano,Allows you to grow Kiwano
+gui.palamod.help_seeds.label_allows_you_to_grow_orange_blue,Allows you to grow Orange Blue,Allows you to grow Orange Blue
+gui.palamod.help_seeds.label_allows_you_to_grow_eggplant,Allows you to grow Eggplant,Allows you to grow Eggplant
+gui.palamod.help_ores.label_max_50,Max: -50,Max: -50
+gui.palamod.help_ores.label_max_51,Max: -51,Max: -51
+gui.palamod.help_ores.label_max_521,Max: -52,Max: -52
+gui.palamod.help_ores.label_max_511,Max: -51,Max: -51
+gui.palamod.help_ores.label_max_52,Max: -52,Max: -52
+gui.palamod.help_ores.label_max_522,Max: -52,Max: -52
+gui.palamod.help_ores.label_max_501,Max: -50,Max: -50
+gui.palamod.help_ores.label_max_523,Max: -52,Max: -52
+gui.palamod.help_ores.label_max_502,Max: -50,Max: -50
+gui.palamod.help_ores.label_max_524,Max: -52,Max: -52
+gui.palamod.help_ores.label_min_0,Min: 0,Min: 0
+gui.palamod.help_ores.label_min_60,Min: -60,Min: -60
+gui.palamod.help_ores.label_min_62,Min: -62,Min: -62
+gui.palamod.help_ores.label_max_20,Max: 20,Max: 20
+gui.palamod.help_ores.label_min_56,Min: -56,Min: -56
+gui.palamod.help_ores.label_min_01,Min: 0,Min: 0
+gui.palamod.help_ores.label_max_55,Max: 55,Max: 55
+gui.palamod.help_ores.label_min_58_max_51,Min: -58,Min: -58
+gui.palamod.help_ores.label_min_58,Min: -58,Min: -58
+gui.palamod.help_ores.label_min_581,Min: -58,Min: -58
+gui.palamod.help_ores.label_min_622,Min: -62,Min: -62
+gui.palamod.help_ores.label_min_601,Min: -60,Min: -60
+gui.palamod.help_ores.label_min_623,Min: -62,Min: -62
+gui.palamod.help_ores.label_min_621,Min: -62,Min: -62
+gui.palamod.help_voidstone.label_used_to_store_stone,Used to store stone,Used to store stone
+gui.palamod.help_voidstone.label_use_to_trash_your_items,Use to trash your items,Use to trash your items
+gui.palamod.help_fluids.label_that_regenerates_you,that regenerates you.,that regenerates you.
+gui.palamod.help_fluids.label_that_inflicts_damage_on_you,that inflicts damage on you.,that inflicts damage on you.
+gui.palamod.help_fluids.label_fake_water_is_a_trap_water_that,Eau factice is a trap water,Fake Water is a trap water
+gui.palamod.help_fluids.label_angelic_water_is_a_fluid_that_re,Angelic Water is a fluid,Angelic Water is a fluid
+gui.palamod.help_endium_gauntlet.label_endium_gloves_can_store_all_lege,Endium gloves can store,Endium gloves can store
+gui.palamod.help_endium_gauntlet.label_all_legendary_stones,all Legendary Stones.,all Legendary Stones.
+gui.palamod.help_lightning_potion.label_equip_a_helmet_and_make_it_with,Equip a helmet and make it with,Equip a helmet and make it with
+gui.palamod.help_lightning_potion.label_to_obtain_lightning_potions,to obtain lightning potions.,to obtain lightning potions.
+gui.palamod.help_lightning_potion.label_empty_vials_during_a_thunderstor,empty vials during a thunderstorm,empty vials during a thunderstorm
+item.palamod.legendary_stone_jobs,Legendary Stone Jobs,Legendary Stone Jobs
+item.palamod.legendary_stone_jobs.description_0,Click and get big xp,Click and get big xp
+palamod.procedure.legendarystonetick,Cooldown before next use :,Cooldown before next use :
+gui.palamod.help_legendary_stone.label_recharge_time_40_minutes,Recharge time 40 minutes,Recharge time 40 minutes
+gui.palamod.help_legendary_stone.label_legendary_stone,legendary stone.,legendary stone.
+gui.palamod.help_legendary_stone.label_get_enhanced_powers,Get enhanced powers,Get enhanced powers
+gui.palamod.help_legendary_stone.label_effect_not_available,Effect not available,Effect not available
+gui.palamod.help_legendary_stone.label_obtain_a_random_legendary_stone,Obtain a random,Obtain a random
+gui.palamod.help_legendary_stone.label_you_give_xp_randomly,You give XP randomly,You give XP randomly
+gui.palamod.help_legendary_stone.label_getting_rich_with_ingots,Getting rich with ingots,Getting rich with ingots
+gui.palamod.help_legendary_stone.label_become_invisible,Become invisible,Become invisible
+gui.palamod.help_legendary_stone.label_teleport_randomly,Teleport randomly,Teleport randomly
+gui.palamod.help_xp_bottle.label_store_your_xp_in_bottles,store your XP in bottles,store your XP in bottles
+gui.palamod.help_swirch_arrow.label_the_arrow_reverses_the_position,The arrow reverses the position of,The arrow reverses the position of
+gui.palamod.help_swirch_arrow.label_you_and_the_opponent_touch,you and the opponent touch,you and the opponent touch
+gui.palamod.help_unclaim_finder.label_allows_you_to_detect_chests,Allows you to detect chests,Allows you to detect chests
+advancements.level_2.title,Level 2,Level 2
+advancements.level_2.descr,Craft Iron Pioche & Shield,Craft Iron Pickaxe & Shield
+advancements.level_3.descr,Craft a Améthyste Pioche,Craft a Amethyst Pickaxe
+advancements.level_3.title,Level 3,Level 3
+advancements.level_4.title,Level 4,Level 4
+advancements.level_4.descr,"Craft a Titane Sword, Pioche, Axe","Craft a Titane Sword, Pickaxe, Axe"
+advancements.level_5.descr,Améthyste !!!!!!!!!,Amethyst !!!!!!!!!
+advancements.level_5.title,Level 5,Level 5
+advancements.level_6.title,Level 6,Level 6
+advancements.level_6.descr,Full Travel,Full Travel
+advancements.level_7.descr,Craft a Backpack,Craft a Backpack
+advancements.level_7.title,Level 7,Level 7
+advancements.level_8.descr,Obtains the different seeds,Obtains the different seeds
+advancements.level_8.title,Level 8,Level 8
+advancements.level_9.descr,Obtain 32x Titane,Obtain 32x Titane
+advancements.level_9.title,Level 9,Level 9
+advancements.level_10.title,Level 10,Level 10
+advancements.level_10.descr,Craft a Findium Block & Cave Block,Craft a Findium Block & Cave Block
+advancements.level_11.title,Level 11,Level 11
+advancements.level_11.descr,Craft a Améthyste Marteau,Craft a Amethyst Hammer
+advancements.level_12.title,Level 12,Level 12
+advancements.level_12.descr,Obtain a Paladium,Obtain a Paladium
+advancements.level_13.descr,"Craft a Paladium Sword, Pioche, Axe, Shovel","Craft a Paladium Sword, Pickaxe, Axe, Shovel"
+advancements.level_13.title,Level 13,Level 13
+advancements.level_14.title,Level 14,Level 14
+advancements.level_14.descr,Craft a Scuba helmet,Craft a Scuba helmet
+advancements.level_15.descr,Craft a Full Titane Armor,Craft a Full Titane Armor
+advancements.level_15.title,Level 15,Level 15
+advancements.level_16.descr,Craft a Trixium Block,Craft a Trixium Block
+advancements.level_16.title,Level 16,Level 16
+advancements.level_17.title,Level 2,Level 2
+advancements.level_17.descr,Craft a Améthyste Excavator,Craft a Amethyst Excavator
+advancements.level_18.descr,Craft a Titane Block & Améthyste block x3,Craft a Titane Block & Amethyst block x3
+advancements.level_18.title,Level 18,Level 18
+advancements.level_19.title,Level 19,Level 19
+advancements.level_19.descr,Craft 10 Diamond Block,Craft 10 Diamond Block
+advancements.level_20.title,Level 20,Level 20
+advancements.level_20.descr,Craft a Paladium Armor,Craft a Paladium Armor
+advancements.level_21.descr,Craft a Titane Marteau,Craft a Titane Hammer
+advancements.level_21.title,Level 21,Level 21
+advancements.level_22.title,Level 22,Level 22
+advancements.level_22.descr,Craft a Cobblebreaker,Craft a Cobblebreaker
+advancements.level_23.descr,Craft 3 Palapple,Craft 3 Palapple
+advancements.level_23.title,Level 23,Level 23
+advancements.level_24.title,Level 24,Level 24
+advancements.level_24.descr,Craft a Améthyste Upgrade Cobblebreaker,Craft a Amethyst Upgrade Cobblebreaker
+advancements.level_25.title,Level 25,Level 25
+advancements.level_25.descr,Basic equipment,Basic equipment
+advancements.level_26.descr,Craft a Titane Backpack,Craft a Titane Backpack
+advancements.level_26.title,Level 26,Level 26
+advancements.level_27.title,Level 27,Level 27
+advancements.level_27.descr,Obtain 5 Orange Blue Seeds,Obtain 5 Orange Blue Seeds
+advancements.level_28.descr,Craft a Totem Of Flowery,Craft a Totem Of Flowery
+advancements.level_28.title,Level 28,Level 28
+advancements.level_29.descr,Obtain 128 bone block,Obtain 128 bone block
+advancements.level_29.title,Level 29,Level 29
+advancements.level_30.title,Level 30,Level 30
+advancements.level_30.descr,Obtain 100 deepslate paladium ore,Obtain 100 deepslate paladium ore
+advancements.level_31.descr,Eat a Palapple,Eat a Palapple
+advancements.level_31.title,Level 31,Level 31
+advancements.level_32.title,Level 32,Level 32
+advancements.level_32.descr,Craft a Palamachine & place,Craft a Palamachine & place
+advancements.level_33.descr,Craft a Small Ring & Medium Ring,Craft a Small Ring & Medium Ring
+advancements.level_33.title,Level 33,Level 33
+advancements.level_34.title,Level 34,Level 34
+advancements.level_34.descr,Craft 3x Jump Stick,Craft 3x Jump Stick
+advancements.level_35.descr,Enchant Paladium Sword Sharpness 5 & Fire Aspect 2,Enchant Paladium Sword Sharpness 5 & Fire Aspect 2
+advancements.level_35.title,Level 35,Level 35
+advancements.level_36.title,Level 36,Level 36
+advancements.level_36.descr,Craft 32 Block of Titane,Craft 32 Block of Titane
+advancements.level_37.descr,Craft 64 Block of Améthyste,Craft 64 Block of Amethyst
+advancements.level_37.title,Level 37,Level 37
+advancements.level_38.descr,Minerai de Mine 20 Deepslate Green Paladium (Silk Touch),Mine 20 Deepslate Green Paladium Ore (Silk Touch)
+advancements.level_38.title,Level 38,Level 38
+advancements.level_39.title,Level 39,Level 39
+advancements.level_39.descr,Craft x3 Paladium Broadsword,Craft x3 Paladium Broadsword
+advancements.level_40.title,Level 40,Level 40
+advancements.level_40.descr,Craft a full Green Paladium Armor & Sword,Craft a full Green Paladium Armor & Sword
+advancements.level_41.descr,Craft 6x Paladium Marteau,Craft 6x Paladium Hammer
+advancements.level_41.title,Level 41,Level 41
+advancements.level_42.descr,Craft 3x Guardian Stone,Craft 3x Guardian Stone
+advancements.level_42.title,Level 42,Level 42
+advancements.level_43.descr,Craft 20 Broyeur Frame,Craft 20 Grinder Frame
+advancements.level_43.title,Level 43,Level 43
+advancements.level_44.title,Level 44,Level 44
+advancements.level_44.descr,Craft x10 Paladium Furnace,Craft x10 Paladium Furnace
+advancements.level_45.descr,Craft x3 Magical Tools,Craft x3 Magical Tools
+advancements.level_45.title,Level 45,Level 45
+advancements.level_46.title,Level 46,Level 46
+advancements.level_46.descr,Place Slime Pad,Place Slime Pad
+advancements.level_47.title,Level 47,Level 47
+advancements.level_47.descr,Obtain 300 cooked beef,Obtain 300 cooked beef
+advancements.level_48.descr,Craft x3 Infernal Knocker,Craft x3 Infernal Knocker
+advancements.level_48.title,Level 48,Level 48
+advancements.level_49.title,Level 49,Level 49
+advancements.level_49.descr,Obtain a Endium Fragment,Obtain a Endium Fragment
+advancements.level_50.title,Level 50,Level 50
+advancements.level_50.descr,Craft your first Endium Nuggets,Craft your first Endium Nuggets
+item.palamod.smelt_modifier,Smelt Modifier,Smelt Modifier
+item.palamod.paladium_hammer_smelt,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_smelt.description_0,§5- SMELT,§5- SMELT
+item.palamod.speed_modifier,Speed Modifier,Speed Modifier
+item.palamod.more_upgrade_modifier,More Upgrade Modifier,More Upgrade Modifier
+item.palamod.knockback_modifier,Knockback Modifier,Knockback Modifier
+item.palamod.fortune_modifier,Fortune Modifier,Fortune Modifier
+item.palamod.damage_modifier,Damage Modifier,Damage Modifier
+item.palamod.flame_modifier,Flame Modifier,Flame Modifier
+item.palamod.paladium_hammer_more_1,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_more_2,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_more_1.description_0,§a- More Upgrade [x1],§a- More Upgrade [x1]
+item.palamod.paladium_hammer_more_2.description_0,§aMore Upgrade [x2],§aMore Upgrade [x2]
+item.palamod.paladium_hammer_smelt_more_upgrade_1,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_smelt_more_upgrade_2,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_smelt_more_upgrade_2.description_0,§aMore Upgrade [x2],§aMore Upgrade [x2]
+item.palamod.paladium_hammer_smelt_more_upgrade_1.description_0,§aMore Upgrade [x1],§aMore Upgrade [x1]
+item.palamod.paladium_hammer_smelt_more_upgrade_1.description_1,§5- SMELT,§5- SMELT
+item.palamod.paladium_hammer_smelt_more_upgrade_2.description_1,§5- SMELT,§5- SMELT
+item.palamod.paladium_hammer_speed,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_speed_more_upgrade_1,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_speed_more_upgrade_1.description_0,§aMore Upgrade [x1],§aMore Upgrade [x1]
+item.palamod.paladium_hammer_speed_more_upgrade_1.description_1,§b- SPEED,§b- SPEED
+item.palamod.paladium_hammer_speed_more_upgrade_2,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_speed_more_upgrade_2.description_0,§aMore Upgrade [x2],§aMore Upgrade [x2]
+item.palamod.paladium_hammer_speed_more_upgrade_2.description_1,§b- SPEED,§b- SPEED
+item.palamod.paladium_hammer_smelt_speed_more_upgrade_1,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_smelt_speed_more_upgrade_2,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_speed.description_0,§b- SPEED,§b- SPEED
+item.palamod.paladium_hammer_smelt_speed_more_upgrade_2.description_0,§aMore Upgrade [x2],§aMore Upgrade [x2]
+item.palamod.paladium_hammer_smelt_speed_more_upgrade_2.description_1,§b- SPEED,§b- SPEED
+item.palamod.paladium_hammer_smelt_speed_more_upgrade_2.description_2,§5- SMELT,§5- SMELT
+item.palamod.paladium_hammer_smelt_speed_more_upgrade_1.description_0,§aMore Upgrade [x1],§aMore Upgrade [x1]
+item.palamod.paladium_hammer_smelt_speed_more_upgrade_1.description_2,§5- SMELT,§5- SMELT
+item.palamod.paladium_hammer_smelt_speed_more_upgrade_1.description_1,§b- SPEED,§b- SPEED
+item.palamod.paladium_hammer_smelt_fortune_1,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_smelt_fortune_1.description_0,§aMore Upgrade [x1],§aMore Upgrade [x1]
+item.palamod.paladium_hammer_smelt_fortune_2.description_0,§aMore Upgrade [x2],§aMore Upgrade [x2]
+item.palamod.paladium_hammer_smelt_fortune_2,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_smelt_fortune_1_speed,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_smelt_fortune_1_speed.description_0,§aMore Upgrade [x2],§aMore Upgrade [x2]
+item.palamod.paladium_hammer_smelt_fortune_1.description_1,§e-Fortune 1,§e-Fortune 1
+item.palamod.paladium_hammer_smelt_fortune_2.description_1,§e- Fortune 2,§e- Fortune 2
+item.palamod.paladium_hammer_smelt_fortune_1_speed.description_2,§b- SPEED,§b- SPEED
+item.palamod.paladium_hammer_smelt_fortune_1_speed.description_1,§e- Fortune 1,§e- Fortune 1
+item.palamod.paladium_hammer_smelt_fortune_1_speed.description_3,§5- SMELT,§5- SMELT
+item.palamod.paladium_hammer_smelt_fortune_2.description_2,§5- SMELT,§5- SMELT
+item.palamod.paladium_hammer_smelt_fortune_1.description_2,§5- SMELT,§5- SMELT
+item.palamod.paladium_hammer_smelt_fortune_1_more_upgrade_2,Paladium Marteau,Paladium Hammer
+item.palamod.paladium_hammer_smelt_fortune_1_more_upgrade_2.description_2,§5- SMELT,§5- SMELT
+item.palamod.paladium_hammer_smelt_fortune_1_more_upgrade_2.description_0,§aMore Upgrade [x2],§aMore Upgrade [x2]
+item.palamod.paladium_hammer_smelt_fortune_1_more_upgrade_2.description_1,§e-Fortune 1,§e-Fortune 1
+item.palamod.paladium_broadsword_more_1,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_more_1.description_0,§a- More Upgrade [x1],§a- More Upgrade [x1]
+item.palamod.paladium_broadsword_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_flame,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_damage,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_flame_more_1,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_more_1,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_damage_more_1,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_flame_more_1.description_0,§a- More Upgrade [x1],§a- More Upgrade [x1]
+item.palamod.paladium_broadsword_knockback_more_1.description_0,§a- More Upgrade [x1],§a- More Upgrade [x1]
+item.palamod.paladium_broadsword_damage_more_1.description_0,§a- More Upgrade [x1],§a- More Upgrade [x1]
+item.palamod.paladium_broadsword_flame_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_flame_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_knockback_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_damage_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_damage_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_more_1.description_1,§u-Knockback 1,§u-Knockback 1
+item.palamod.paladium_broadsword_knockback_more_2.description_1,§u -Knockback 1,§u -Knockback 1
+item.palamod.paladium_broadsword_knockback.description_0,§u- Knockback 1,§u- Knockback 1
+item.palamod.paladium_broadsword_flame_more_1.description_1,§6- Flame,§6- Flame
+item.palamod.paladium_broadsword_flame_more_2.description_1,§c- Flame,§c- Flame
+item.palamod.paladium_broadsword_flame.description_0,§6- Flame,§6- Flame
+item.palamod.paladium_broadsword_damage_more_2.description_1,§c- Damage 1,§c- Damage 1
+item.palamod.paladium_broadsword_damage_more_1.description_1,§c- Damage 1,§c- Damage 1
+item.palamod.paladium_broadsword_damage.description_0,§c- Damage 1,§c- Damage 1
+item.palamod.paladium_broadsword_damage_2_more_1,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_damage_2_more_1.description_1,§c- Damage 2,§c- Damage 2
+item.palamod.paladium_broadsword_damage_2_more_1.description_0,§a- More Upgrade [x1],§a- More Upgrade [x1]
+item.palamod.paladium_broadsword_damage_2_more_2.description_1,§c- Damage 2,§c- Damage 2
+item.palamod.paladium_broadsword_damage_2_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_damage_2_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_damage_3_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_damage_3_more_2.description_1,§c- Damage 3,§c- Damage 3
+item.palamod.paladium_broadsword_damage_3_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_2_more_1.description_1,§u -Knockback 2,§u -Knockback 2
+item.palamod.paladium_broadsword_knockback_2_more_1.description_0,§a- More Upgrade [x1],§a- More Upgrade [x1]
+item.palamod.paladium_broadsword_knockback_2_more_1,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_2_more_2.description_1,§u -Knockback 2,§u -Knockback 2
+item.palamod.paladium_broadsword_knockback_2_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_knockback_2_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_1_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_1_more_2.description_1,§u -Knockback 1,§u -Knockback 1
+item.palamod.paladium_broadsword_knockback_1_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_flame_damage_1_more_1,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_flame_damage_1_more_1.description_1,§6- Flame,§6- Flame
+item.palamod.paladium_broadsword_flame_damage_1_more_1.description_2,§c- Damage 1,§c- Damage 1
+item.palamod.paladium_broadsword_flame_damage_1_more_1.description_0,§a- More Upgrade [x1],§a- More Upgrade [x1]
+item.palamod.paladium_broadsword_flame_damage_1_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_flame_damage_1_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_flame_damage_1_more_2.description_1,§6- Flame,§6- Flame
+item.palamod.paladium_broadsword_flame_damage_1_more_2.description_2,§c- Damage 1,§c- Damage 1
+item.palamod.paladium_broadsword_flame_damage_2_more_2.description_1,§6- Flame,§6- Flame
+item.palamod.paladium_broadsword_flame_damage_2_more_2.description_2,§c- Damage 2,§c- Damage 2
+item.palamod.paladium_broadsword_flame_damage_2_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_flame_damage_2_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_damage_flame,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_damage_flame.description_3,§c- Damage 1,§c- Damage 1
+item.palamod.paladium_broadsword_knockback_damage_flame.description_2,§u-Knockback 1,§u-Knockback 1
+item.palamod.paladium_broadsword_knockback_damage_flame.description_1,§6- Flame,§6- Flame
+item.palamod.paladium_broadsword_knockback_damage_flame.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_knockback_1_damage_1_more_1,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_1_damage_1_more_1.description_0,§a- More Upgrade [x1],§a- More Upgrade [x1]
+item.palamod.paladium_broadsword_knockback_1_damage_1_more_1.description_1,§c- Damage 1,§c- Damage 1
+item.palamod.paladium_broadsword_knockback_1_damage_1_more_1.description_2,§u- Knockback 1,§u- Knockback 1
+item.palamod.paladium_broadsword_knockback_1_damage_1_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_1_damage_1_more_2.description_1,§c- Damage 1,§c- Damage 1
+item.palamod.paladium_broadsword_knockback_1_damage_1_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_knockback_1_damage_1_more_2.description_2,§u- Knockback 1,§u- Knockback 1
+item.palamod.paladium_broadsword_knockback_1_damage_2_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_1_damage_2_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_knockback_1_damage_2_more_2.description_2,§u- Knockback 1,§u- Knockback 1
+item.palamod.paladium_broadsword_knockback_1_damage_2_more_2.description_1,§c- Damage 2,§c- Damage 2
+item.palamod.paladium_broadsword_knockback_2_damage_1_more_2.description_1,§c- Damage 1,§c- Damage 1
+item.palamod.paladium_broadsword_knockback_2_damage_1_more_2.description_2,§u- Knockback 2,§u- Knockback 2
+item.palamod.paladium_broadsword_knockback_2_damage_1_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_knockback_2_damage_1_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_flame_knockback_1_more_1,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_flame_knockback_1_more_1.description_1,§u- Knockback 1,§u- Knockback 1
+item.palamod.paladium_broadsword_flame_knockback_1_more_1.description_2,§6- Flame,§6- Flame
+item.palamod.paladium_broadsword_flame_knockback_1_more_1.description_0,§a- More Upgrade [x1],§a- More Upgrade [x1]
+item.palamod.paladium_broadsword_flame_knockback_1_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_flame_knockback_1_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+item.palamod.paladium_broadsword_flame_knockback_1_more_2.description_1,§u- Knockback 1,§u- Knockback 1
+item.palamod.paladium_broadsword_flame_knockback_1_more_2.description_2,§6- Flame,§6- Flame
+item.palamod.paladium_broadsword_flame_knockback_2_more_2,Paladium Broadsword,Paladium Broadsword
+item.palamod.paladium_broadsword_flame_knockback_2_more_2.description_2,§6- Flame,§6- Flame
+item.palamod.paladium_broadsword_flame_knockback_2_more_2.description_1,§u- Knockback 2,§u- Knockback 2
+item.palamod.paladium_broadsword_flame_knockback_2_more_2.description_0,§a- More Upgrade [x2],§a- More Upgrade [x2]
+block.palamod.blackhole,Blackhole,Blackhole
+block.palamod.order_banner,Order Banner,Order Banner
+block.palamod.chaos_banner,Chaos Banner,Chaos Banner
+entity.palamod.enox,Enox,Enox
+item.palamod.enox_spawn_egg,Enox Spawn Egg,Enox Spawn Egg
+entity.palamod.olympus,Olympus,Olympus
+item.palamod.olympus_spawn_egg,Olympus Spawn Egg,Olympus Spawn Egg
+item.palamod.heimdall_spawn_egg,Heimdall Spawn Egg,Heimdall Spawn Egg
+entity.palamod.heimdall,Heimdall,Heimdall
+entity.palamod.frig,Frig,Frig
+item.palamod.frig_spawn_egg,Frig Spawn Egg,Frig Spawn Egg
+item.palamod.skeleton_arty_spawn_egg,Skeleton Arty Spawn Egg,Skeleton Arty Spawn Egg
+entity.palamod.skeleton_arty,Skeleton Arty,Skeleton Arty
+entity.palamod.chaos_nexus,Chaos Nexus,Chaos Nexus
+item.palamod.chaos_nexus_spawn_egg,Chaos Nexus Spawn Egg,Chaos Nexus Spawn Egg
+entity.palamod.order_nexus,Order Nexus,Order Nexus
+item.palamod.order_nexus_spawn_egg,Order Nexus Spawn Egg,Order Nexus Spawn Egg
+item.palamod.paladium_og_chestplate,Plastron d'Paladium OG,Paladium OG Chestplate
+item.palamod.paladium_og_helmet,Casque d'Paladium OG,Paladium OG Helmet
+item.palamod.paladium_og_leggings,Jambières de Paladium OG,Paladium OG Leggings
+item.palamod.paladium_og_boots,Paladium OG Boots,Paladium OG Boots
+block.palamod.shop_point_bundle,Shop Point Bundle,Shop Point Bundle
+item.palamod.chaos_axe,Chaos Axe,Chaos Axe
+item.palamod.order_joust,Order Joust,Order Joust
+item.palamod.ng_corrupted_helmet,Casque d'NG Corrupted,NG Corrupted Helmet
+item.palamod.ng_corrupted_boots,NG Corrupted Boots,NG Corrupted Boots
+item.palamod.ng_corrupted_leggings,Jambières de NG Corrupted,NG Corrupted Leggings
+item.palamod.ng_corrupted_chestplate,Plastron d'NG Corrupted,NG Corrupted Chestplate
+subtitles.status_walk,status walk,status walk
+entity.palamod.ancient_status,Ancient Status,Ancient Status
+item.palamod.ancient_status_spawn_egg,Ancient Status Spawn Egg,Ancient Status Spawn Egg
+gui.palamod.cauldrongui.label_shiny_wood,Shiny Wood,Shiny Wood
+block.palamod.shiny_judeecercis_wood,Shiny Judeecercis Wood,Shiny Judeecercis Wood
+block.palamod.shiny_ostrya_wood,Shiny Ostrya Wood,Shiny Ostrya Wood
+block.palamod.shiny_erable_wood,Shiny Erable Wood,Shiny Erable Wood
+block.palamod.shiny_jacaranda_wood,Shiny Jacaranda Wood,Shiny Jacaranda Wood
+block.palamod.endium_portal_angle_block,Endium Portal Angle Block,Endium Portal Angle Block
+block.palamod.amethyst_portal_block,Améthyste Portal Block,Amethyst Portal Block
+block.palamod.endium_portal_block,Endium Portal Block,Endium Portal Block
+block.palamod.paladium_portal_block,Paladium Portal Block,Paladium Portal Block
+block.palamod.titane_portal_block,Titane Portal Block,Titane Portal Block
+item.palamod.amethyst_portal_key,Améthyste Portal Key,Amethyst Portal Key
+item.palamod.titane_portal_key,Titane Portal Key,Titane Portal Key
+item.palamod.paladium_portal_key,Paladium Portal Key,Paladium Portal Key
+item.palamod.endium_portal_key,Endium Portal Key,Endium Portal Key
+item.palamod.endium_heart,Endium Heart,Endium Heart
+block.palamod.portal_alchimiste,Portal Alchimiste,Portal Alchimiste
+gui.palamod.portal_gui.label_key,KEY,KEY
+block.palamod.portal_alchimiste_titane,Portal Alchimiste,Portal Alchimiste
+block.palamod.portal_alchimiste_paladium,Portal Alchimiste,Portal Alchimiste
+block.palamod.portal_alchimiste_endium,Portal Alchimiste,Portal Alchimiste
+block.palamod.gold_tank,Gold Tank,Gold Tank
+block.palamod.gold_tank.description_0,May contain: 35 Buckets of any type !,May contain: 35 Buckets of any type !
+block.palamod.amethyst_tank,Améthyste Tank,Amethyst Tank
+block.palamod.titane_tank,Titane Tank,Titane Tank
+block.palamod.paladium_tank,Paladium Tank,Paladium Tank
+block.palamod.extractor,Extractor,Extractor
+block.palamod.extractor_flask,Extractor,Extractor
+block.palamod.dead_log,Dead Log,Dead Log
+block.palamod.dead_wood,Dead Wood,Dead Wood
+block.palamod.dead_planks,Dead Planks,Dead Planks
+block.palamod.dead_stairs,Dead Escaliers,Dead Stairs
+block.palamod.dead_slab,Dead Slab,Dead Slab
+block.palamod.dead_fence,Dead Fence,Dead Fence
+block.palamod.dead_fence_gate,Dead Fence Gate,Dead Fence Gate
+block.palamod.dead_pressure_plate,Dead Pressure Plate,Dead Pressure Plate
+block.palamod.dead_button,Bouton de Dead,Dead Button
+block.palamod.extractor_flask_empty,Extractor,Extractor
+item.palamod.empty_flask,Empty Flask,Empty Flask
+item.palamod.ostrya_flask,Sap Flask,Sap Flask
+item.palamod.ostrya_flask.description_0,§eSap : §6Ostrya,§eSap : §6Ostrya
+item.palamod.jacaranda_flask.description_0,§eSap : §6Jacaranda,§eSap : §6Jacaranda
+item.palamod.jacaranda_flask,Sap Flask,Sap Flask
+item.palamod.judeecercis_flask.description_0,§eSap : §6Judeecercis,§eSap : §6Judeecercis
+item.palamod.judeecercis_flask,Sap Flask,Sap Flask
+item.palamod.erable_flask,Sap Flask,Sap Flask
+item.palamod.erable_flask.description_0,§eSap : §6Erable,§eSap : §6Erable
+block.palamod.judeercercis_log_phase_1,Judeecercis Log,Judeecercis Log
+block.palamod.jacaranda_log_phase_1,Jacaranda Log,Jacaranda Log
+block.palamod.erable_log_phase_1,Erable Log,Erable Log
+block.palamod.ostrya_log_phase_1,Ostrya Log,Ostrya Log
+block.palamod.judeercercis_log_phase_2,Judeecercis Log,Judeecercis Log
+block.palamod.judeercercis_log_phase_3,Judeecercis Log,Judeecercis Log
+block.palamod.judeercercis_log_phase_4,Judeecercis Log,Judeecercis Log
+block.palamod.jacaranda_log_phase_2,Jacaranda Log,Jacaranda Log
+block.palamod.jacaranda_log_phase_3,Jacaranda Log,Jacaranda Log
+block.palamod.jacaranda_log_phase_4,Jacaranda Log,Jacaranda Log
+block.palamod.erable_log_phase_2,Erable Log,Erable Log
+block.palamod.erable_log_phase_3,Erable Log,Erable Log
+block.palamod.erable_log_phase_4,Erable Log,Erable Log
+block.palamod.ostrya_log_phase_2,Ostrya Log,Ostrya Log
+block.palamod.ostrya_log_phase_3,Ostrya Log,Ostrya Log
+block.palamod.ostrya_log_phase_4,Ostrya Log,Ostrya Log
+item.palamod.weighted_boots,Weighted Boots,Weighted Boots
+entity.palamod.mohiras,Mohiras,Mohiras
+item.palamod.mohiras_spawn_egg,Mohiras Spawn Egg,Mohiras Spawn Egg
+block.palamod.withered_obsidian_1,Withered Obsidian,Withered Obsidian
+block.palamod.withered_obsidian_2,Withered Obsidian,Withered Obsidian
+block.palamod.withered_obsidian_3,Withered Obsidian,Withered Obsidian
+block.palamod.withered_obsidian_4,Withered Obsidian,Withered Obsidian
+block.palamod.withered_obsidian_5,Withered Obsidian,Withered Obsidian
+block.palamod.withered_obsidian_6,Withered Obsidian,Withered Obsidian
+block.palamod.withered_obsidian_7,Withered Obsidian,Withered Obsidian
+block.palamod.withered_obsidian_8,Withered Obsidian,Withered Obsidian
+block.palamod.withered_obsidian_9,Withered Obsidian,Withered Obsidian
+block.palamod.withered_obsidian_10,Withered Obsidian,Withered Obsidian
+block.palamod.withered_obsidian_11,Withered Obsidian,Withered Obsidian
+block.palamod.withered_obsidian_12,Withered Obsidian,Withered Obsidian
+block.palamod.withered_obsidian_13,Withered Obsidian,Withered Obsidian
+item.palamod.miner,Blaze And Steel,Blaze And Steel
+block.palamod.actaeapachypoda,Actaeapachypoda,Actaeapachypoda
+block.palamod.absinthe,Absinthe,Absinthe
+block.palamod.clathrusarcheri,Clathrusarcheri,Clathrusarcheri
+gui.palamod.help_commands.label_sethome_home_delhome,"/sethome, home, delhome","/sethome, home, delhome"
+gui.palamod.help_commands.label_furnace,/furnace,/furnace
+gui.palamod.help_commands.label_vanish,/vanish,/vanish
+gui.palamod.help_commands.label_feed,/feed,/feed
+gui.palamod.help_commands.label_godmode,/godmode,/godmode
+block.palamod.withered_piston,Withered Piston,Withered Piston
+gui.palamod.portal_on_gui.label_drop_sap,Drop Sap,Drop Sap
+gui.palamod.portal_on_guiendium.label_drop_sap,Drop Sap,Drop Sap
+gui.palamod.portal_on_guiendium.label_endium_pollen_x2,Endium Pollen [ x2 ],Endium Pollen [ x2 ]
+item.palamod.pog_2.description_0,POG - Level : 2,POG - Level : 2
+item.palamod.pog_2,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_3.description_0,POG - Level : 3,POG - Level : 3
+item.palamod.pog_3,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_4,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_4.description_0,POG - Level : 4,POG - Level : 4
+item.palamod.pog_5,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_5.description_0,POG - Level : 5,POG - Level : 5
+item.palamod.pog_6,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_6.description_0,POG - Level : 6,POG - Level : 6
+item.palamod.pog_7.description_0,POG - Level : 7,POG - Level : 7
+item.palamod.pog_7,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_8,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_8.description_0,POG - Level : 8,POG - Level : 8
+item.palamod.pog_9,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_9.description_0,POG - Level : 9,POG - Level : 9
+item.palamod.pog_10.description_0,POG - Level : 10,POG - Level : 10
+item.palamod.pog_10,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_11,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_11.description_0,POG - Level : 11,POG - Level : 11
+item.palamod.pog_12,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_12.description_0,POG - Level : 12,POG - Level : 12
+item.palamod.pog_13.description_0,POG - Level : 13,POG - Level : 13
+item.palamod.pog_13,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_14,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_14.description_0,POG - Level : 14,POG - Level : 14
+item.palamod.pog_15,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_15.description_0,POG - Level : 15,POG - Level : 15
+item.palamod.pog_16,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_16.description_0,POG - Level : 16,POG - Level : 16
+item.palamod.pog_17,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_17.description_0,POG - Level : 17,POG - Level : 17
+item.palamod.pog_18.description_0,POG - Level : 18,POG - Level : 18
+item.palamod.pog_18,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_19.description_0,POG - Level : 19,POG - Level : 19
+item.palamod.pog_19,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_20,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_20.description_0,POG - Level : 20,POG - Level : 20
+item.palamod.pog_21,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_21.description_0,POG - Level : 21,POG - Level : 21
+item.palamod.pog_22,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_22.description_0,POG - Level : 22,POG - Level : 22
+item.palamod.pog_23.description_0,POG - Level : 23,POG - Level : 23
+item.palamod.pog_23,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_24,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_24.description_0,POG - Level : 24,POG - Level : 24
+item.palamod.pog_25,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_25.description_0,POG - Level : 25,POG - Level : 25
+item.palamod.pog_26,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_26.description_0,POG - Level : 26,POG - Level : 26
+item.palamod.pog_27,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_27.description_0,POG - Level : 27,POG - Level : 27
+item.palamod.pog_28.description_0,POG - Level : 28,POG - Level : 28
+item.palamod.pog_28,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_29.description_0,POG - Level : 29,POG - Level : 29
+item.palamod.pog_29,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_30,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_30.description_0,POG - Level : 30,POG - Level : 30
+item.palamod.pog_31,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_31.description_0,POG - Level : 31,POG - Level : 31
+item.palamod.pog_32,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_32.description_0,POG - Level : 32,POG - Level : 32
+item.palamod.pog_33,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_33.description_0,POG - Level : 33,POG - Level : 33
+item.palamod.pog_34.description_0,POG - Level : 34,POG - Level : 34
+item.palamod.pog_34,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_35,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_35.description_0,POG - Level : 35,POG - Level : 35
+item.palamod.pog_36,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_36.description_0,POG - Level : 36,POG - Level : 36
+item.palamod.pog_37.description_0,POG - Level : 37,POG - Level : 37
+item.palamod.pog_37,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_38,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_38.description_0,POG - Level : 38,POG - Level : 38
+item.palamod.pog_39.description_0,POG - Level : 39,POG - Level : 39
+item.palamod.pog_39,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_40,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_40.description_0,POG - Level : 40,POG - Level : 40
+item.palamod.pog_41,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_41.description_0,POG - Level : 41,POG - Level : 41
+item.palamod.pog_42,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_42.description_0,POG - Level : 42,POG - Level : 42
+item.palamod.pog_43,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_43.description_0,POG - Level : 43,POG - Level : 43
+item.palamod.pog_44,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_44.description_0,POG - Level : 44,POG - Level : 44
+item.palamod.pog_45,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_45.description_0,POG - Level : 45,POG - Level : 45
+item.palamod.pog_46,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_46.description_0,POG - Level : 46,POG - Level : 46
+item.palamod.pog_47,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_47.description_0,POG - Level : 47,POG - Level : 47
+item.palamod.pog_48.description_0,POG - Level : 48,POG - Level : 48
+item.palamod.pog_48,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_49.description_0,POG - Level : 49,POG - Level : 49
+item.palamod.pog_49,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_50.description_0,POG - Level : 50,POG - Level : 50
+item.palamod.pog_50,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_51,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_51.description_0,POG - Level : 51,POG - Level : 51
+item.palamod.pog_52,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_52.description_0,POG - Level : 52,POG - Level : 52
+item.palamod.pog_53,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_53.description_0,POG - Level : 53,POG - Level : 53
+item.palamod.pog_54,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_54.description_0,POG - Level : 54,POG - Level : 54
+item.palamod.pog_55.description_0,POG - Level : 55,POG - Level : 55
+item.palamod.pog_55,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_56,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_56.description_0,POG - Level : 56,POG - Level : 56
+item.palamod.pog_57,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_57.description_0,POG - Level : 57,POG - Level : 57
+item.palamod.pog_58.description_0,POG - Level : 58,POG - Level : 58
+item.palamod.pog_58,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_59.description_0,POG - Level : 59,POG - Level : 59
+item.palamod.pog_59,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_60.description_0,POG - Level : 60,POG - Level : 60
+item.palamod.pog_60,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_61.description_0,POG - Level : 61,POG - Level : 61
+item.palamod.pog_61,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_62,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_62.description_0,POG - Level : 62,POG - Level : 62
+item.palamod.pog_63,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_63.description_0,POG - Level : 63,POG - Level : 63
+item.palamod.pog_64,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_64.description_0,POG - Level : 64,POG - Level : 64
+item.palamod.pog_65,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_65.description_0,POG - Level : 65,POG - Level : 65
+item.palamod.pog_66.description_0,POG - Level : 66,POG - Level : 66
+item.palamod.pog_66,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_67,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_67.description_0,POG - Level : 67,POG - Level : 67
+item.palamod.pog_68.description_0,POG - Level : 68,POG - Level : 68
+item.palamod.pog_68,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_69.description_0,POG - Level : 69,POG - Level : 69
+item.palamod.pog_69,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_70.description_0,POG - Level : 70,POG - Level : 70
+item.palamod.pog_70,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_71.description_0,POG - Level : 71,POG - Level : 71
+item.palamod.pog_71,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_72.description_0,POG - Level : 72,POG - Level : 72
+item.palamod.pog_72,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_73,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_73.description_0,POG - Level : 73,POG - Level : 73
+item.palamod.pog_74,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_74.description_0,POG - Level : 74,POG - Level : 74
+item.palamod.pog_75,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_75.description_0,POG - Level : 75,POG - Level : 75
+item.palamod.pog_76.description_0,POG - Level : 76,POG - Level : 76
+item.palamod.pog_76,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_77,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_77.description_0,POG - Level : 77,POG - Level : 77
+item.palamod.pog_78,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_78.description_0,POG - Level : 78,POG - Level : 78
+item.palamod.pog_79.description_0,POG - Level : 79,POG - Level : 79
+item.palamod.pog_79,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_80.description_0,POG - Level : 80,POG - Level : 80
+item.palamod.pog_80,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_81.description_0,POG - Level : 81,POG - Level : 81
+item.palamod.pog_81,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_82.description_0,POG - Level : 82,POG - Level : 82
+item.palamod.pog_82,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_83.description_0,POG - Level : 83,POG - Level : 83
+item.palamod.pog_83,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_84,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_84.description_0,POG - Level : 84,POG - Level : 84
+item.palamod.pog_85,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_85.description_0,POG - Level : 85,POG - Level : 85
+item.palamod.pog_86,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_86.description_0,POG - Level : 86,POG - Level : 86
+item.palamod.pog_87,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_87.description_0,POG - Level : 87,POG - Level : 87
+item.palamod.pog_88,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_88.description_0,POG - Level : 88,POG - Level : 88
+item.palamod.pog_89.description_0,POG - Level : 89,POG - Level : 89
+item.palamod.pog_89,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_90,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_90.description_0,POG - Level : 90,POG - Level : 90
+item.palamod.pog_91.description_0,POG - Level : 91,POG - Level : 91
+item.palamod.pog_91,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_92.description_0,POG - Level : 92,POG - Level : 92
+item.palamod.pog_92,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_93.description_0,POG - Level : 93,POG - Level : 93
+item.palamod.pog_93,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_94.description_0,POG - Level : 94,POG - Level : 94
+item.palamod.pog_94,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_95,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_95.description_0,POG - Level : 95,POG - Level : 95
+item.palamod.pog_96,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_96.description_0,POG - Level : 96,POG - Level : 96
+item.palamod.pog_97.description_0,POG - Level : 97,POG - Level : 97
+item.palamod.pog_97,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_98,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_98.description_0,POG - Level : 98,POG - Level : 98
+item.palamod.pog_99,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_99.description_0,POG - Level : 99,POG - Level : 99
+item.palamod.pog_100,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_100.description_0,POG - Level : 100,POG - Level : 100
+item.palamod.pog_100_bighole,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_100_bighole.description_0,POG - Level : 100,POG - Level : 100
+item.palamod.pog_100_bighole.description_1,§9- Big Hole Upgrade,§9- Big Hole Upgrade
+item.palamod.pog_100_bighole_smelt.description_1,§9- Big Hole Upgrade,§9- Big Hole Upgrade
+item.palamod.pog_100_bighole_smelt.description_0,POG - Level : 100,POG - Level : 100
+item.palamod.pog_100_bighole_smelt,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_100_bighole_smelt.description_2,§6- Smelt,§6- Smelt
+item.palamod.pog_100_smelt,Pioche Of The God,Pickaxe Of The God
+item.palamod.pog_100_smelt.description_1,§6- Smelt,§6- Smelt
+item.palamod.pog_100_smelt.description_0,POG - Level : 100,POG - Level : 100
+item.palamod.god_pickaxe_big_hole,God Pioche Big Hole,God Pickaxe Big Hole
+item.palamod.god_pickaxe_auto_smelt,God Pioche Auto Smelt,God Pickaxe Auto Smelt
+biome.palamod.birch_water,Birch Water,Birch Water
